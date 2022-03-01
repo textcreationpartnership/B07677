@@ -1,0 +1,583 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The schoole of good manners. Or, A new schoole of vertue. Teaching children &amp; youth how they ought to behaue themselues in all companies, times, and places. / Translated out of French. By W.F..</title>
+            <title>ABC ou instruction pour les petis enfans. English. 1595</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1595</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 101 KB of XML-encoded text transcribed from 41 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B07677</idno>
+            <idno type="OCLC"> 180867147</idno>
+            <idno type="STC">STC 10922.5</idno>
+            <idno type="STC">ESTC S92539</idno>
+            <idno type="EEBO-CITATION">180867147</idno>
+            <idno type="OCLC">ocn 180867147</idno>
+            <idno type="VID">191736</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B07677)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191736)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2284:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The schoole of good manners. Or, A new schoole of vertue. Teaching children &amp; youth how they ought to behaue themselues in all companies, times, and places. / Translated out of French. By W.F..</title>
+                  <title>ABC ou instruction pour les petis enfans. English. 1595</title>
+                  <author>Phiston, William.</author>
+               </titleStmt>
+               <extent>[77] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by I. Danter, for William Ihones: and are to be sold at the signe of the Gun neare Holburne Conduit.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1595..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Translator's dedication signed: William Fiston.</note>
+                  <note>Title within ornamental border (McK. &amp; Ferg. 86); headpieces, initials.</note>
+                  <note>A translation of: L'ABC ou instruction pour les petis enfans. Anvers, C. Plantin, 1564.</note>
+                  <note>Signatures: A-E⁸ (first leaf blank?).</note>
+                  <note>Imperfect: tightly bound and with print show-through.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Etiquette --  England --  Early works to 1800.</term>
+               <term>England --  Social life and customs --  16th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:191736:1"/>
+            <p>
+               <hi>THE Schoole of good manners.</hi>
+            </p>
+            <p>
+               <hi>OR, A new Schoole of Vertue.</hi>
+            </p>
+            <p>Teaching children &amp; youth how they ought to behaue themſelues in all com<g ref="char:EOLhyphen"/>panies, times, and places.</p>
+            <p>Tranſlated out of French. <hi>By W. F.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by I. Danter, for William Ihones: and are to be ſold at the ſigne of the Gun, neere Holburne Conduit. 1595.</p>
+            <pb facs="tcp:191736:2" rendition="simple:additions"/>
+            <pb facs="tcp:191736:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:191736:3"/>
+            <pb facs="tcp:191736:3"/>
+            <head>
+               <hi>TO THE VERTV<g ref="char:EOLhyphen"/>ous</hi> and tovvardlie young Gentle<g ref="char:EOLhyphen"/>man, <hi>Maſter</hi> Edvvard Haring<g ref="char:EOLhyphen"/>ton, <hi>Sonne and heire to the</hi> Wor<g ref="char:EOLhyphen"/>ſhipfull Maſter Iames Haring<g ref="char:EOLhyphen"/>ton of Ridlington in Rut<g ref="char:EOLhyphen"/>land Eſquier.</head>
+            <p>
+               <seg rend="decorInit">N</seg>OT without iuſt cauſe (in my iudgement) did that renoumed lawgi<g ref="char:EOLhyphen"/>uer of the Lacedemo<g ref="char:EOLhyphen"/>nians, amonge other things ordeine, that all parents ſhould not only frequent the publike banquets themſelues, but ſhould alwayes bring with them their children thither, that there they might the better learne to obſerue, what faſhions, manners and v<g ref="char:EOLhyphen"/>ſage were beſt beſeeming, and holden
+<pb facs="tcp:191736:4"/>
+moſt praiſe worthy, where the reuerent account of the preſence of their betters, might be as a bridle to hold them with<g ref="char:EOLhyphen"/>in the boundes of modeſtie; and the be<g ref="char:EOLhyphen"/>holding of the glorious rewards of ſuch as deſerued wel, &amp; the open contempt, reproches and ſhame with the ſharpe puniſhment of diſſolute and euill diſpo<g ref="char:EOLhyphen"/>ſed children, might terrifie them from vice, and anymate them to labour gree<g ref="char:EOLhyphen"/>dylie to be holden vertuous. If the like aſſemblies were now houlden among Chriſtians, where children with mirth might learne good manners, and togi<g ref="char:EOLhyphen"/>ther with the refreſhing of their bodies might learne with quicke &amp; wiſe ſayings to exerciſe their wits aſwell as their me<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>bers with actiue feats, I thinke it would prooue to youth a way very profitable: For <hi>Example</hi> I hold to be the moſt for<g ref="char:EOLhyphen"/>cible ſchoole-miſtres that can be, touch<g ref="char:EOLhyphen"/>ing manners. Now hauing of late hap<g ref="char:EOLhyphen"/>pened vpon a litle book in French con<g ref="char:EOLhyphen"/>cerning childrens manners, I hauing more laiſure than I well liked, thought good to expell my languiſhing ydlenes,
+<pb facs="tcp:191736:4"/>
+by tranſlating, and (in places needfull) correcting, this treatiſe, which I haue intituled an A. B. C. or the firſt ſchole of good manners. Much more ſuffici<g ref="char:EOLhyphen"/>ently (I confeſſe) this argument deſer<g ref="char:EOLhyphen"/>ueth to be handled: but all good &amp; ver<g ref="char:EOLhyphen"/>tuous manners be as moſt louing ſiſters: who ſo is daily conuerſant with ſome of them, cannot long be vnacquainted with the reſidue. And that childe that will lay faſt hold on <hi>Diligent obſeruation,</hi> and be ruled thereby as by his <hi>Paedago<g ref="char:EOLhyphen"/>gue</hi> he ſhall attaine in good tyme to the knowledge and vſe of al good manners.</p>
+            <p>This treatiſe (good maſter Edward) I haue dedicated to you, not as though you needed any ſuch inſtructions; for I am aſſured that you know and daily practiſe, mo and better than here are preſcribed. But for that I eſteeme you alreadie a patterne of vertuous good manners in the view of many other, I haue thought good, to make you a pa<g ref="char:EOLhyphen"/>trone of this little ſchole, wher the rude &amp; ignorant may (if they will) lerne ſome forme of faſhions, by reading &amp; practi<g ref="char:EOLhyphen"/>ſing
+<pb facs="tcp:191736:5"/>
+that here is propoſed.</p>
+            <p>Now the Lord the Author &amp; fountaine of all goodnes, vouchſafe ſo to powre his graces vpon you, that you may pro<g ref="char:EOLhyphen"/>fit and proſper in al your vertuous inde<g ref="char:EOLhyphen"/>uors, and ſo apply your ſelf in huſband<g ref="char:EOLhyphen"/>ing this ſpring tyme of your Adoleſcen<g ref="char:EOLhyphen"/>cie, as when you are growen to a per<g ref="char:EOLhyphen"/>fect man, you may gloriouſly reape the happie harueſt of your labours, to your owne good, and the comfort of all your freends.</p>
+            <closer>
+               <signed>Your vvell-vviller <hi>VVilliam Fiston.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:191736:5"/>
+            <head>
+               <hi>¶ A Schoole of good</hi> man<g ref="char:EOLhyphen"/>ners for Children and youth.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He feare of the Lorde, is the beginning of wiſedome, ſaide <hi>Salomon</hi> the wiſe moſt true<g ref="char:EOLhyphen"/>lie: wherfore he iudged thoſe to bee alreadie in a great for<g ref="char:EOLhyphen"/>wardnes to knowledge, and right vnder<g ref="char:EOLhyphen"/>ſtanding, that ſéeke diligently to learne how they may walke rightly in the feare of god: For that feare doth not terrifie, but teach: it with holdeth not from weale, but forewar<g ref="char:EOLhyphen"/>neth howe to flie from euill: yea, it is a nurſe that nurtureth, but therewith giueth moſt holſome nouriſhment. Let Children therefore, firſt and principallie learne to walke in this feare: and let them know, that the firſt poynt of good manners, is to ſhewe moſt dutifulnes vnto him, who is moſt of Maieſtie, honour and worthineſſe, and to whome for benifits receiued they are moſt bound. Conſider then (O Childe) that in
+<pb facs="tcp:191736:6"/>
+regard of honour and maieſtie, all Nobles, Princes, and greateſt Emperours, are but inferiour vnderlings in compariſon of God Almightie, holding their ſtates but during his pleaſure: yea, in reſpect of his excellen<g ref="char:EOLhyphen"/>cie, they are but as the ſhadowe of a man is in reſpect of the man himſelfe: and all the pompe and glorie that thou canſt ſée in this world, is but as a thing of naught in compa<g ref="char:EOLhyphen"/>riſon of Gods perfect true honor and eternal glorie in heauen: whereof thou ſhalt be par<g ref="char:EOLhyphen"/>taker in the life to come, if (walking in his feare) thou indeuoureſt to doe well.</p>
+            <p>If thou alſo conſider, how infinitelie thou art bound vnto God Almightie for benefits receiued, thou ſhalt haue iuſt cauſe to deſire, that thy whole life might bee nothing els but a continuall prayſing and glorifiyng of Gods name. For what good thing haſt thou or euer hadſt thou, which thou haſt not frée<g ref="char:EOLhyphen"/>ly receiued of his bounteous liberalitie? Nay what good thing could be wiſhed, whereof he hath not moſt gratiouſly made thée parta<g ref="char:EOLhyphen"/>ker? Hée hath not onlie made thée a liuing creature, whereas thou hadſt no béeing, but hath made thée a reaſonable and euerliuing ſoule; euen a Semblance or Image of his owne excellent Maieſtie, a partaker of rea<g ref="char:EOLhyphen"/>ſon
+<pb facs="tcp:191736:6"/>
+&amp; diuine knowledge in heauenly things, with the Angels. Hee hath alſo ordained thée (if thou walke in his feare) to bée an heire of his euerlaſting kingdome, and a fellow heire with his owne Son Chriſt Ie<g ref="char:EOLhyphen"/>ſus; where ſhall bee ioy without ceaſing, true glorie neuer failing, plenty without wanting, and all happines without harme for euermore. God hath alſo ſent his Son Ieſus Chriſt to redéeme thée, by his merits, and ſuffrings, hee hath accepted him as a Sacrifice for thy ſins and for all thoſe that ſhall be ſaued, whereas otherwiſe thou waſt accurſed, and like to haue bin damned for e<g ref="char:EOLhyphen"/>uer. This did hée of méere mercie and loue: wherefore thou art moſt bound to feare and loue him.</p>
+            <p>God hath alſo giuen thée the comfortable vſe &amp; enioying of his holy ſpirite, if by ear<g ref="char:EOLhyphen"/>neſt and faithfull praier thou craue the ſame: That ſpirit regenerateth thée, and yéeldeth thée alwaies preſent comfortes againſt all feares, ſafetie againſt dangers, ſtrength a<g ref="char:EOLhyphen"/>gainſt aſſaults, warranteth thee harmleſſe againſt all thy wauering doubts; and is to thée a ſure Bulwarke of defence, againſt all the ſleightes of Sathan, the malice of ene<g ref="char:EOLhyphen"/>mies, and whatſoeuer might hurt or trou<g ref="char:EOLhyphen"/>ble
+<pb facs="tcp:191736:7"/>
+thée. Séeke diligently then for the aid of this holy ſpirit, by daylie fearing and obey<g ref="char:EOLhyphen"/>ing God.</p>
+            <p>If thou wouldſt weigh thy dutie toward God, by conſideration of the outward bene<g ref="char:EOLhyphen"/>fits that thou receiueſt of him in this life, I ſaie it againe, what haſt thou or euer hadſt thou, but thou receiueſt the ſame of Gods frée benefit. He conioyned thy Parents to<g ref="char:EOLhyphen"/>gether in wedlocke: &amp; afterward gaue them both will and power to beget and conceiue thée: that done, he powred into thée a liuing and reaſonable ſoule, hee formed thée into a right ſhape, and nouriſhed thée miraculouſly, euen in thy mothers wombe. He gaue vn<g ref="char:EOLhyphen"/>to thy parents after thy birth, a tender lo<g ref="char:EOLhyphen"/>uing care ouer thée, to cheriſh thée in thy helpleſſe infancie: he hath giuen and ſtill gi<g ref="char:EOLhyphen"/>ueth vnto things growing from the earth, vertue and power to nouriſh and ſuſtaine thée. He maketh thy hands and diuers parts of thée delighted with féeling, thy mouth with taſting, thy noſe with ſmelling, thyne eyes with ſéeing, and thine eares with hea<g ref="char:EOLhyphen"/>ring. Thy hart alſo, he maketh full of ioy and gladnes: and (that which paſſeth all the reſidue) hee giueth vnto thy ſoule (if thou walke in his feare) a taſte in this life of the
+<pb facs="tcp:191736:7"/>
+endleſſe and vnſpeakeable ioyes of heauen. Conſider with the aforeſaid benefites, how he hath reléeued thée from time to time, and made thée grow ſtronger and ſtronger, and wiſer and wiſer; and ſtill aſſureth thée (tho<g ref="char:EOLhyphen"/>rough hope) that he will daily more &amp; more multiply his graces in thée, if thou endeuor to doo well.</p>
+            <p>If then thou meditate wel on Gods won<g ref="char:EOLhyphen"/>derfull wiſedome and power, ſhewed in hys benefites beſtowed vppon thee; thou ſhalt finde in thy ſelfe (as it were) a little beauti<g ref="char:EOLhyphen"/>full world of Gods glorious workmanſhip. To God therefore, to whom thou art moſt bound: nay, to whom thou oweſt thy ſelfe, and all that thou haſt, yeeld all dutie, ſtudy<g ref="char:EOLhyphen"/>ing to liue according to his lawes, ſo as thou maiſt beſt pleaſe him, that is beſt manners. But foraſmuch as thou muſt learne in eue<g ref="char:EOLhyphen"/>rie particular action how to liue godly, part<g ref="char:EOLhyphen"/>ly by hearkening to good inſtructions of pa<g ref="char:EOLhyphen"/>rents and teachers, partly by hearing, rea<g ref="char:EOLhyphen"/>ding and meditating on Gods word, &amp; chief<g ref="char:EOLhyphen"/>ly by the inſpiration and direction of Gods holy ſpirit, which muſt daily bee craued for, by earneſt praier: all which cannot be ſuffi<g ref="char:EOLhyphen"/>ciently handled in this ſhort Treatiſe, I will now haſten to my purpoſed inſtruction tou<g ref="char:EOLhyphen"/>ching
+<pb facs="tcp:191736:8"/>
+thy manners and behauiour among men.</p>
+            <p>Vnderſtand therefore (O childe) that, by reaſon of original ſin corrupting thy nature, thou art but as an vntilled péece of ground, apt to bring forth nothing that is good. Dai<g ref="char:EOLhyphen"/>ly experience ſheweth thée, how the Earth yéeldeth itſelfe a moſt bountifull and kinde mother, in bringing forth brambles and vn<g ref="char:EOLhyphen"/>profitable wéedes, nouriſhing the ſame moſt liberally: but corne, and hearbes, beſt for mens vſe and neceſſitie, it hardly reléeueth &amp; nouriſheth, after much painfull plowing or digging, diligent and carefull ſowing, ſet<g ref="char:EOLhyphen"/>ting or planting, and continuall wéeding, ſhowing it ſelfe vnto them an vnkinde and cruell ſtepmother. Euen ſo, thy corrupt na<g ref="char:EOLhyphen"/>ture, moſt plentifully bringeth forth, &amp; wil<g ref="char:EOLhyphen"/>lingly nouriſheth and cockereth in thée, all vices and euill manners: but vertuous and right commendable manners, it hardly ad<g ref="char:EOLhyphen"/>mitteth to be planted in thée, and practiſed of thée, after much carefull tilling and digging vp by the rootes, of the weedes of wickednes and ill behauiour; and the diligent ſowing, ſetting and planting of ciuill and good beha<g ref="char:EOLhyphen"/>uiour, endeuoured by thy tender parents, and vigilant teachers.</p>
+            <p>
+               <pb facs="tcp:191736:8"/>Let then, thy induſtrious diligence con<g ref="char:EOLhyphen"/>curre with the ſage inſtructions of thy tea<g ref="char:EOLhyphen"/>chers; and knowing thy ſelfe to be ignorant of manie things which they know, be rea<g ref="char:EOLhyphen"/>die to heare, and diligent to practiſe, what good they ſhall propoſe: ſo ſhall theyr docu<g ref="char:EOLhyphen"/>ments doo thee good: and thou ſhalt bee de<g ref="char:EOLhyphen"/>lighted in that which is good and ſeemely, forſaking filthie, rude, and corrupt manners and faſhions.</p>
+            <p>The chiefeſt cauſe that hindereth manie Children from the practiſe of good manners, is, for that they eſteeme themſelues to know ſufficiently how to behaue themſelues, when as indeed they know not at all, or at leaſt re<g ref="char:EOLhyphen"/>gard not, to obſerue that which for their ten<g ref="char:EOLhyphen"/>der yeres is comely, or to flye that which in them is moſt vnſeemely in anie poynt. But reiecting ſuch head-ſtrong careleſneſſe, ſuſ<g ref="char:EOLhyphen"/>pend thou thine owne iudgement, and ſub<g ref="char:EOLhyphen"/>mit thy ſelfe dutifully to the good direction of thy diſcreets aduiſed Gouernours, and ſkil<g ref="char:EOLhyphen"/>full learned Teachers: and ſtill bee ſure to eſchue (with all diligence) whatſoeuer thou ſhalt be admoniſhed to be ill beſéeming thee, or heareſt or ſeeeſt to be noted vnſeemely in other.</p>
+            <p>
+               <pb facs="tcp:191736:9"/>And ſee thou marke héedfully, and imitate rightly, all good manners taught thée, or whatſoeuer behauiour praiſe-worthie that thou ſhalt ſée in another. Beware therefore of vngodly and ill mannered children, how thou accompanie thy ſelfe with them: but with the vertuous and well nurtured let thy fellowſhip bee: for of a vertuous and indu<g ref="char:EOLhyphen"/>ſtruous yong age, commeth an honourable, or at leaſt a commendable olde age. But now to our purpoſe.</p>
+            <p>The tung is called the interpreter of the minde, and the behauiour may bee rightly tearmed the true image of a man: for by the manners are liuely repreſented the habit of the minde, and diſpoſition of man. And according to the behauiour, ſo is the partie iudged of: and by the ſame he getteth either credite or diſcredite. Learne thou then in childhood ſo to behaue thy ſelfe, as with the beſt thou maiſt winne praiſe. Which man<g ref="char:EOLhyphen"/>ners, although they cannot bee ſo largelye taught by preceptes in each perticular, as by an induſtrious practiſe of him that will bee diligent to obſerue, they maye bee learned perfectly: yet for the inſtruction of thoſe that haue willing mindes to learne, and ſmall meanes to attaine, I haue thought good to
+<pb facs="tcp:191736:9"/>
+ſet downe theſe few rules to be followed.</p>
+            <p>In méeting with anie perſon that is thy better (as thou art to eſtéeme all thine El<g ref="char:EOLhyphen"/>ders thy betters), ſée thou giue him the way; and putting off thy hat, vſe a reuerent ſhow in countenance or maner of gréeting to him. And if he bee ſome Man of authoritie, a Mi<g ref="char:EOLhyphen"/>niſter of Gods word, any of thy Parents, thine Vncle or Aunt, or thy Schoolemaſter, looke that thou boow alſo thy right knée ſom<g ref="char:EOLhyphen"/>what in thy ſaluting of them.</p>
+            <p>Let it be farre from thée to reaſon thus: What ſhould I ſhew duetie or reuerence to one that I knowe not, or to him that neuer did, nor is like to doo me anie good? For God (by <hi>Salomon</hi>) commaundeth thée to riſe vp, and make obeyſaunce before thine Elders. Age is honorable, and commaunded of God to bee honoured: nay, it is a ſigne of Gods great laſting fauour, and of euerlaſting life in heauen. To deſpiſe it, is then to deſpiſe Gods fauorable mercie and louing kindnes toward thy ſelfe and others.</p>
+            <p>God by S. <hi>Paule</hi> commandeth alſo, that double honour bee giuen to the Miniſters of his Word. And as for thoſe in authoritie, as Princes and all Magiſtrates, &amp;c. S. <hi>Paule</hi> ſaith plainly, that to deſpiſe the<g ref="char:cmbAbbrStroke">̄</g>, is to deſpiſe
+<pb facs="tcp:191736:10"/>
+Gods ordinance: he ſpeaking of heathen &amp; vnchriſtian Princes and Magiſtrates. How much dutie then owe wee to thoſe Princes &amp; Magiſtrates that indeuour to ſhewe them<g ref="char:EOLhyphen"/>ſelues the faithfull lieuetenants of God on earth, commanding and ruling according to Gods owne will, and ſéeking our good both of ſoule and bodie.</p>
+            <p>The nereſt dutie that thou in thy childhood oweſt priuately next vnto God, is to thy pa<g ref="char:EOLhyphen"/>rents, which are the inſtrumentall cauſes of thy beeing: without them thou hadſt neuer been begotten nor borne: without their ten<g ref="char:EOLhyphen"/>der loue and carefull prouiding for thée, thou hadſt neuer béen reléeued nor foſtered in thy infanſie, when thou waſt of thy ſelf quite helples: they ſtill prouide thée of all neceſſa<g ref="char:EOLhyphen"/>ries, and labour ſo to mainteine thée, and bring thée vp in learning, and knowledge of good arts that thou maieſt be able heareafter to lyue in credit as a man among men: Which benefits receiued of thy parents thou canſt neuer be able in any ſort to recompence them.</p>
+            <p>Bee then diligent to pleaſe, and readye to be ruled by them of whome thou haſt thy being and all thou haſt, &amp; whom God hath made ſo able and willing to bring forth, to
+<pb facs="tcp:191736:10"/>
+helpe and doo thée good: and whoſe kindenes ſo farre excedeth all that thou canſt deſerue.</p>
+            <p>Next to thy parents, thou art nearely bound in duetie to thy Schole-maiſters and teachers, who are as ſpirituall Parents, to beget and bring forth in thée vertues and all Godlines; and who indeuor to nouriſh thée, and to make thée grow vp ſtronger &amp; ſtron<g ref="char:EOLhyphen"/>ger in knowledge, learning and wiſedome, vntill thou become a perfect man.</p>
+            <p>A certain duetie and reuerence, ſaint <hi>Paul</hi> alſo willeth to be vſed to equals: thou then beeing a childe muſt bee carefull to vſe good behauiour in manners and curteſie euen to<g ref="char:EOLhyphen"/>wardes thy equals and companions. And know, that hee that ſheweth himſelfe moſt curteous and well mannered among his e<g ref="char:EOLhyphen"/>qualls, is ſo farre from ſuſtaining anie diſ<g ref="char:EOLhyphen"/>credite thereby, that he getteth thereby the good-will and commendations of all his fa<g ref="char:EOLhyphen"/>miliars.</p>
+            <p>In ſpeaking to thy ſuperiors, vſe not ma<g ref="char:EOLhyphen"/>nie words: and let thoſe words thou ſpeak<g ref="char:EOLhyphen"/>eſt, be vttered with reuerence, both of ſpeach and countenance. When thou ſpeakeſt to thine equalls, let thy countenance be amia<g ref="char:EOLhyphen"/>ble, and thy ſpeach familiar and frendly.</p>
+            <p>
+               <pb facs="tcp:191736:11"/>Shamefaſtnes is a Vertue beſéeming a childe, ſo as it be moderate: for, as to be bra<g ref="char:EOLhyphen"/>zen-faced and ſhameles, is a vice; ſo, to bee ouer baſhfull and aſhamed to ſhew his face, is a fault alſo.</p>
+            <p>If anie honorable man, or one of great account offer to take thée by the hand, before thou deliuer him thy hand, kiſſe lightly the fore-finger of thy right hand, then deliuer<g ref="char:EOLhyphen"/>ing him thy hand, boow modeſtly firſt thy right knée, after thy left, and humblye boow thy bodie withall: &amp; alwaies when he ſpea<g ref="char:EOLhyphen"/>keth to thée, or thou art about to aunſwere him, boow thy right knée once modeſtly. If he continue talking with thée, looke thou ſtil modeſtly on him, not moouing thine eyes much: but beware thou ſtare not too much in his face, for that were a ſhameles and moſt vnmannerly part. Neither let thy lookes be too much hanging downe, for that were pée<g ref="char:EOLhyphen"/>uiſh, and a ſigne of one hauing a guilty con<g ref="char:EOLhyphen"/>ſcience.</p>
+            <p>To looke aſkew with thine eyes caſt a<g ref="char:EOLhyphen"/>ſide, were a ſigne of one imagining ſome miſchiefe.</p>
+            <p>To toſſe thy ſight, or turne thy face thys way and that way, were a ſigne of a fooliſh and vnconſtant minde.</p>
+            <p>
+               <pb facs="tcp:191736:11"/>It is alſo a fowle and vnſéemely thing for thée to make faces, in wrything thy viſage into diuers formes: or, to rub one while thy noſe, another while thy forhead: or, one while to lift vp thine eye browes, another while to pull them down too much, or to pat<g ref="char:EOLhyphen"/>ter with thy lips; or, one while to thruſt out thy mouth too much, another while to pul it in ouer-much, or to ſhake thy head, or to cough, vnles thou be there too inforced: or to ſpet oft, or to ſcratch thy head, to picke thine eares, or to blow thy noſe, or to ſmoothe thy face with thine hand, as if thou wouldeſt wype away ſhamefaſtnes from thée: to bee picking or rubbing thy neck, as if thou wert lowſie: or to clyng in thy ſhoulders, as ſome <hi>Italians</hi> vſe. All theſe are euill.</p>
+            <p>In ſtanding thus before thy betters, hold thy hat in thy left hand, with both thy hands mannerly before thée: for to hold thy hat or booke vnder thine arme-pit in ſtanding ſo, were clowniſh.</p>
+            <p>As thou art thus ſtanding in talke, thou maiſt not winke with thine eyes, nod at a<g ref="char:EOLhyphen"/>nie bodie, nor turne away thy head.</p>
+            <p>If were an ill fauoured thing, thus ſtan<g ref="char:EOLhyphen"/>ding, to play with thine armes, to vſe apiſh toyes with thy fingers: or, to be ſhort, not to
+<pb facs="tcp:191736:12"/>
+ſéeme for to ſpeake with thy tung, but with thy whole bodie.</p>
+            <p>Let thy voice be gentle and ſoft, and there<g ref="char:EOLhyphen"/>with deliberate not too quicke nor too ſlow: nor too high, for that were clowniſh, nor too low, but it may eaſilie be vnderſtood.</p>
+            <p>Let not thy ſpéech be too haſtie, (as I ſaid) but let it goe with thy vnderſtanding, and be vttered ſo leyſurely as it may well be vn<g ref="char:EOLhyphen"/>derſtood: for manie are ſo raſh in ſpeaking, that they make themſelues ſoone windleſſe, and forget halfe of that which they ſhould haue ſpoken: beſides that, it bringeth them to an ill habit of ſtutting and ſtammering, which might haue bin avoided, if héedefull deliberation had béene vſed in their child<g ref="char:EOLhyphen"/>hood.</p>
+            <p>In ſpeaking to any Honorable or Wor<g ref="char:EOLhyphen"/>ſhipfull perſon, it is good manners to repeat nowe and then the title of his Honour or Worſhip.</p>
+            <p>There is no name ſhould bee of greater account, nor more deare than that of Fa<g ref="char:EOLhyphen"/>ther and Mother: nor none more louing and friendlie than the name of brother &amp; ſiſter.</p>
+            <p>If thou be ignorant of the titles of dig<g ref="char:EOLhyphen"/>nities of each eſtate, know that Lordes are honourable, Knights &amp; chiefe Gentlemen,
+<pb facs="tcp:191736:12"/>
+worſhipfull, and vſe to anie man ſéeming of anie good account, this title, Sir, &amp;c.</p>
+            <p>It is a moſt ſhamefull thing for a childe to bee heard ſweare either in teſt, or in ear<g ref="char:EOLhyphen"/>neſt. A like ſhame it is for them to vtter any word of ribandrie or filthie ſpéech: nay they muſt not abide to heare anie ſuch filthi<g ref="char:EOLhyphen"/>neſſe. But in manie places now a daies, (all feare of God, and care of modeſtie ſet a ſide) children euen from their infancie, are delighted in theſe abhominable euils, which they ought moſt of all things to abhorre.</p>
+            <p>If thou bee driuen to name anie vncleane or diſhoneſt thing in ſpéech, vſe firſt this preamble, ſauing your honour, ſauing your worſhip; or to meane perſons, ſauing your reuerence.</p>
+            <p>Beware that thou once name not, much les that thou ſhew any ſecret part of thy bo<g ref="char:EOLhyphen"/>die, which nature willeth to be kept hidden and ſecret.</p>
+            <p>Beware howe thou gaineſay anie thing ſpoken by thy elders, &amp; if thou heareſt them affirme anie thing that thou knoweſt to bée contrarie to their ſaying, if thou bee driuen to reply vnto their ſpéeches; denie not flat<g ref="char:EOLhyphen"/>lye their ſpéeches but curteouſlie firſt ſay: with your fauoure, Sir, I knowe the
+<pb facs="tcp:191736:13"/>
+matter to ſtand thus, or thus: or, I haue heard Sir, that it is thus, or ſo. Nay, it is e<g ref="char:EOLhyphen"/>uill and vnſéemely for thée to giue the lye to thine equalls or fellowes.</p>
+            <p>A well mannered childe will neuer quar<g ref="char:EOLhyphen"/>rell nor brabble with anie: but will rather, either put vp wrong, or commit the matter to arbitrement.</p>
+            <p>Thou muſt not boaſt nor extoll thy ſelf a<g ref="char:EOLhyphen"/>boue other, thou muſt not finde fault wyth the dooings of another. Be not haſtie to re<g ref="char:EOLhyphen"/>proue other. Tattle not abroad whatſoeuer thou heareſt. Backbite no bodie. Diſdaine not another for whatſoeuer infirmity or vn<g ref="char:EOLhyphen"/>comelines Nature affoordeth him: knowing that God could alſo haue made thée more vg<g ref="char:EOLhyphen"/>ly than a toad: but thanke God for ſhaping thée aright in all parts, and comely to ſée too; whereas hee hath made diuers ill fauoured, lame, blinde, &amp;c.</p>
+            <p>To interrupt anie bodie while he is ſpeak<g ref="char:EOLhyphen"/>ing, and breake off his tale, is an vnmanner<g ref="char:EOLhyphen"/>ly part.</p>
+            <p>Be not angrie, nor quarrelling with any bodie: vſe gentlenes and frendly behauiour to euerie bodie. But make choyce of ſuch for thy neereſt familiars, to bee conuerſaunt withall, as thou findeſt to be moſt vertuous
+<pb facs="tcp:191736:13" rendition="simple:additions"/>
+and well mannered.</p>
+            <p>Say nothing to anie bodie, that thou wol<g ref="char:EOLhyphen"/>deſt not haue knowen abroad to al: for it be<g ref="char:EOLhyphen"/>commeth not children to bee talkers or med<g ref="char:EOLhyphen"/>lers in anie thing, but thoſe things that con<g ref="char:EOLhyphen"/>cerne their learning or profiting in goodnes.</p>
+            <p>It is a folly for thee, to looke to haue kept that ſecret by telling it another, which thou couldeſt not kéepe ſecret thy ſelfe.</p>
+            <p>The ſureſt way for thée to eſchue blame and reproach, is, that thou neuer doo nor ſay anie thing, whereof thou maiſt bee iuſtly a<g ref="char:EOLhyphen"/>ſhamed, or haue cauſe to repent.</p>
+            <p>Be no medler in other mens matters: and if thou haſt ſéene or knowen anie thing of their dooings, make as though thou kne<g ref="char:EOLhyphen"/>weſt nothing.</p>
+            <p>To looke aſide ouer another mans ſhould<g ref="char:EOLhyphen"/>er, while he is reading his letters, is an vn<g ref="char:EOLhyphen"/>mannerly part.</p>
+            <p>If a man open his coffer or deſke whyle thou art by, goe aſide: for it is no good man<g ref="char:EOLhyphen"/>ners for thée to looke therein, much more vn<g ref="char:EOLhyphen"/>ſéemly is it for thée to handle any thing that is therein.</p>
+            <p>If any men nere thée enter into any ſecret talke, get thée aſide, and intermeddle not thy ſelfe with their ſpeach, vnles thou be called.</p>
+            <p>
+               <pb facs="tcp:191736:14"/>The manners (as I ſaid before) are liue<g ref="char:EOLhyphen"/>lie repreſentations of the diſpoſitions of the mynde and thoſe doe ſhine principally in the good order of the viſage, let therfore thine eyes be modeſtly, yet pleaſantly diſpoſed: ſhamefaſt and ſtedfaſt, and alſo peaceable; not too much lifted vp, or diſdainfully caſt a<g ref="char:EOLhyphen"/>ſide, for that were a ſigne of pride and cruel<g ref="char:EOLhyphen"/>tie: not wauering, and affraide to looke vp; for that betokeneth follie and want of witt: not be amiſhly hanging doune for that beto<g ref="char:EOLhyphen"/>keneth ſullennes: not with an eager ſullen ſhow for that betokeneth one practiſing ſom treaſon: not too open ſtaring, for that ſhew<g ref="char:EOLhyphen"/>eth a blockhead and ſhameleſſe foole: not twinkeling, for that betokeneth cowardiſe and in conſtancie: not looking wildly, for that is like mad folke, and men amaſed: not ſharply as if thou were angrie: not becko<g ref="char:EOLhyphen"/>ning and as it were ſpeaking to the partie with thy looke, for that were want of ſham<g ref="char:EOLhyphen"/>faſtnes: but let thy looke be ſo ordered, as thereby may thy minde appeare to he quiet, ſetled, amiable and curteous, with all reue<g ref="char:EOLhyphen"/>rence, And ſurely not without cauſe did the auncient philoſophers call the eyes the ſeate of the ſoule.</p>
+            <p>Paintings made in olde time doe ſhewe,
+<pb facs="tcp:191736:14"/>
+that in times paſt it was counted eſpeciall good manners, for to looke with the eyes half ſhut, as among ſome Spaniards it ſéemeth yet to bee eſtéemed comely to looke with the eyes ſomewhat wincking. Alſo we finde it by the ſaide paintings, to haue bin eſtéemed a valorous and manlie part to go ſomewhat backe and to cloſe the lips: But that which is comely by nature, will be accounted faire and ſéemely among all people: yet, in theſe matters we muſt ſome times doe as the fiſh doeth, which changeth the colour according to the thing that it méeteth.</p>
+            <p>There are certaine countenances of eyes, which nature hath giuen to one after one ſort, to another after another faſhion: the ordering of which cannot in euerie point, be ſufficiently handled in precepts: but this I ſay, that euill and vncomely behauiours, doo ſpoile not only the faſhion of the counte<g ref="char:EOLhyphen"/>nance but alſo of all the bodie: whereas con<g ref="char:EOLhyphen"/>trariwiſe, well ordered and ſéemely behaui<g ref="char:EOLhyphen"/>ours, make that which is comely by nature, to bee moſt well beſéeming and commenda<g ref="char:EOLhyphen"/>ble: and whereas is anie vncomelineſſe or imperfection of nature, it taketh away, or at leaſt, maketh to ſéeme leſſe the blemiſh thereof.</p>
+            <p>
+               <pb facs="tcp:191736:15"/>It is vnſéemly to looke vpon anie man hol<g ref="char:EOLhyphen"/>ding one of thine eyes ſhut, as if thou were ſhooting in a gunne.</p>
+            <p>Let thine ey-browes ſtand alſo ſtretched right forth, not rimpled together by beeing turned back again, which betokeneth fierce<g ref="char:EOLhyphen"/>nes: not ſtaring vp on high, which is ſign of pride: not hanging downe ouer the eyes, which is a ſigne of one meditating miſchiefe.</p>
+            <p>Let thy forhead be merry and plain, ſhew<g ref="char:EOLhyphen"/>ing chéerfulnes, and a reſolute quiet minde, not wrinkled and turned vp againe like an olde man, not going vp and downe like a hedge-hog, not caſting thy forehead a croſſe like a bull.</p>
+            <p>Let not thy noſe be ſnottie, for that is a moſt filthie and loathſome thing to behold: neither maiſt thou wipe the ſame vppon thy hat, cap, clothes, hand or ſléeue: for, that is too ſlouenly: neither maiſt thou blowe thy noſe with thy hand, and ſtraight way wype thy hand vpon thy clothes: but blow thy noſe on thy napkin, turning thy head aſide from the companie: if thou want a napkin, goe into a corner, and blowing thy noſe with thy forefinger and thumbe, tread out quick<g ref="char:EOLhyphen"/>ly that which fell from thée.</p>
+            <p>To ſnuffle or make a rutling in the noſe
+<pb facs="tcp:191736:15"/>
+is filthie: to ſpeake alſo in the noſe is vnſéem<g ref="char:EOLhyphen"/>ly and ridiculous.</p>
+            <p>To blow thy noſe verie lowd, is vnman<g ref="char:EOLhyphen"/>nerly.</p>
+            <p>If thou be driuen to néeſe in companie, it is manners for thée to turn a little aſide, and afterward to put off thy hat, and to thanke them that haue bid, God bleſſe thée. But let the violence of thy néeſing be firſt paſt: for néeſing and yawning do take away the ſenſe of thine eares vtterly. It is holden alſo for good manners, after thy néeſing to put off thy hat, and to ſay, With your leaue.</p>
+            <p>When thou art driuen to yawne goe a<g ref="char:EOLhyphen"/>ſide, or els, if thou canſt not put thy hand be<g ref="char:EOLhyphen"/>fore thy mouth.</p>
+            <p>It is good manners to ſalute another when hee neeſeth, ſaying, Chriſt helpe you.</p>
+            <p>When as thine Elders or betters ſhall ſalute anie man that neeſeth, it is manners for thee to put off thy hat.</p>
+            <p>To ſtraine thy ſelfe for to make much noyſe in neeſing, or to neeſe oftener than ne<g ref="char:EOLhyphen"/>ceſſitie forceth, is vnmannerly. Neither take I it healthie for to reſtraine thy ſelfe from neeſing, when thou art mooued violently theretoo: and health is commonly to be pre<g ref="char:EOLhyphen"/>ferred before too nice manner lines.</p>
+            <p>
+               <pb facs="tcp:191736:16"/>Let thy chéekes bee died with naturall ſhamefaſtnes, and not with painting. To bluſh when thou art reprooued, or charged with euill (though vndeſerued of thée) it is a ſigne of grace, and good manners. Be<g ref="char:EOLhyphen"/>ware thou ſhow not too bold a face: and take like héed, that thou be not too baſhfull.</p>
+            <p>To puffe vp the chéekes is a ſigne of foo<g ref="char:EOLhyphen"/>liſh pride. And to pluck in the ſame too much ſhoweth one of minde forlorne, and deſpay<g ref="char:EOLhyphen"/>ring of himſelfe. The one betokeneth a proud foole hauing too high a conceat of him<g ref="char:EOLhyphen"/>ſelfe: the other betokeneth a <hi>Iudas</hi> like trai<g ref="char:EOLhyphen"/>tour.</p>
+            <p>Let not thy mouth be too cloſe ſhut, as if thou fearedſt to take breath: nor yet let it be gaping open; for that is like a foole: but let thy lippes be euen as it were gently kiſſing one another.</p>
+            <p>Take héed thou powt not out thy mouth for that is ill fauoured, and beaſtly. Ney<g ref="char:EOLhyphen"/>ther make a pohing with thy mouth in com<g ref="char:EOLhyphen"/>panie, as men doo paſſing by ſome ſtinking place.</p>
+            <p>To laugh at euery thing, betokeneth a foole: neither maiſt thou laugh a lowd at a<g ref="char:EOLhyphen"/>ny thing: nor ſtirre and ſhake thy body in laughing in a cauſe of greate laughter, thou
+<pb facs="tcp:191736:16"/>
+muſt ſmile and ſhewe a modeſt ioyfullnes. But, beware thou laugh not at any ribaw<g ref="char:EOLhyphen"/>drie or filthie knauerie, nor once ſmile there<g ref="char:EOLhyphen"/>at. Too earneſt &amp; violent laughter, is ſéemly for no age: but moſt vnſéemly for children.</p>
+            <p>Some laugh ſo vnreaſonably, that there<g ref="char:EOLhyphen"/>with they ſet out their téeth like grinning dogs: make wry mouths and diſfigure their faces. But flie thou ſuch diſſolute and vn<g ref="char:EOLhyphen"/>mannerly faſhions.</p>
+            <p>Theſe are wordes of fooles to ſay: I was like to be piſſe my ſelfe with laughing: I had almoſt burſt with laughing: I was like to haue died with laughing: or I had almoſt ſounded with laughing. If ſo great a cauſe of laughter bee offered, that thou cannot chooſe but laugh out, thou muſt hide thy face with a napkin, or with thy hand. To laugh alone or without cauſe is accounted fooliſh<g ref="char:EOLhyphen"/>nes: yet if at ſome conceit thou ſmile to thy ſelfe, it is the more tollerable, if thou canſt readilie yéeld a ſufficient cauſe therefore.</p>
+            <p>To bite the nether lip is a vile vnmanner<g ref="char:EOLhyphen"/>ly part: for that is the ſigne of a furious ma<g ref="char:cmbAbbrStroke">̄</g>, or ſuch a one that is ſpitefull &amp; threatning, &amp; like euil is it to bite the vpper lip: and as vn<g ref="char:EOLhyphen"/>mannerly is it to lick out the tung aboue or below the lips, or on ether ſide of the mouth.</p>
+            <p>
+               <pb facs="tcp:191736:17"/>It was in times paſt holden a grace or good faſhion amongſt the Dutchmen, to put out their lips ſomwhat, as if they were rea<g ref="char:EOLhyphen"/>die to kiſſe: but that is holden for a bad faſh<g ref="char:EOLhyphen"/>ion now a dayes.</p>
+            <p>To mocke anie bodie by blabbering out the tung, is the part of wag-halters &amp; leand boyes, not of well mannered children.</p>
+            <p>When thou ſpitteſt, turne thy face aſide: and beware that thou ſpitteſt not vpon anie bodie, nor before any bodies ſight.</p>
+            <p>If thou haſt ſpet anie thing vppon the ground, that is fowle to be ſéene, tread it out quickly, leaſt it offend anie bodies ſight.</p>
+            <p>If thou be where thou canſt not turne from the companie, receiue thy ſpettle with thy hand-kerchiefe from thy mouth verye cloſely.</p>
+            <p>It is a beaſtly thing to vſe ſpitting often, as ſome doo by a lewd cuſtome, not for néed. Some likewiſe vſe ſtill coughing and hum<g ref="char:EOLhyphen"/>ming almoſt at euerie word they ſpeake, as if they were ſtill forging a lye that wold not frame. All ſuch fowle faſhions muſt thou warily eſchew.</p>
+            <p>Some others get a filthy cuſtome in theyr childhood, to roſpe, and make as though they would breake winde vpward ſtill in theyr
+<pb facs="tcp:191736:17"/>
+talke &amp; vſe the ſame vntill their age: where<g ref="char:EOLhyphen"/>of <hi>Clitipho</hi> in <hi>Terence</hi> was reprooued by a ſeruant. But if thou bee forced to cough, cough a ſide: and beware thou cough in no bodies face, neither roſpe, nor breake wind in any companie, as neare as thou can, eſ<g ref="char:EOLhyphen"/>pecially eſchew it in talke.</p>
+            <p>If thou be driuen to vomit, get thée aſide out of companie leaſt thou make the ſto<g ref="char:EOLhyphen"/>macks of other to loath thée: and they iudge thée a glutton or drunkard.</p>
+            <p>Kéepe thy téeth cleane by rubbing them, and thy Gummes euerie morning afore thou riſe with a linnen cloth, for that is moſt holſome. As for powder to make them white, leaue that to niſe maides. To vſe rubbing much with ſalt or allume, doth fret the gummes. And as for waſhing them with Vrine, leaue that to the <hi>Spaniards.</hi>
+            </p>
+            <p>If there bee any thing hanging in thy téeth, get it not out with thy knife, nor with thy nailes, like Cats and Dogs, nor with a napkin, but with the point of a toothpicker, made either of ſome fine piece of woode, or of a quill, or of the little bones taken out of a Capons legge.</p>
+            <p>It is eſtéemed comely and holſome, to waſh the mouth with faire water once in the
+<pb facs="tcp:191736:18"/>
+morning: but to vſe the ſame oft in a day, is fooliſh and vnſéemelie. Of vſage of the tung we will ſpeake in another place.</p>
+            <p>It is both a thing clowniſh and vnhol<g ref="char:EOLhyphen"/>ſome to goe vnkembd. I ſpeake of kemb<g ref="char:EOLhyphen"/>ing for cleanlyneſſe, for auoyding lice and nits, &amp;c. not of chriſping, curling and lay<g ref="char:EOLhyphen"/>ing our locks like wanton yong women.</p>
+            <p>To vſe to ſcratch the head in preſence of others, is both ſlouenly and euill: and ſo is it to vſe ſcratching or rubbing thy bodie. Let not the haire of thy head hang in thine eies, nor on thy ſhoulders.</p>
+            <p>Shake not much thy head, nor ſtrout it not too much out with bridling in thy chin: for that is more comely for great Horſes than for thée: yet muſt thou remember to carry thy head vpright in a modeſt ſort.</p>
+            <p>To pull in thy head &amp; thruſt vp thy ſhoul<g ref="char:EOLhyphen"/>ders, were the part of a ſlouthfull ſlouen.</p>
+            <p>To bowe in thy backe thruſting out thy bellie, is fooliſh proud geſture and verie vn<g ref="char:EOLhyphen"/>ſéemely: but to goe with thy body ſtrait vp is comely and commendable.</p>
+            <p>Let not thy heade hang lolling on one ſide nor other: for that ſheweth either a foole or an hypocrite.</p>
+            <p>
+               <pb facs="tcp:191736:18"/>Thou muſt beare thy ſhoulders euen, with an equall counterpois, not thruſting vp the one and downe with the other like Antikes, for many children practiſing ſuch Apiſh and vnſéemely toyes, make their bo<g ref="char:EOLhyphen"/>dies grow crooked for euer, &amp; become there<g ref="char:EOLhyphen"/>by deformed and ill faſhioned in their whole bodie beyond nature. Some alſo by croo<g ref="char:EOLhyphen"/>king out their ſhoulders, and ſtooping with their backs get ſuch a cuſtome in their child<g ref="char:EOLhyphen"/>hoode, as they growe crooked for euer, and cannot by any meanes goe ſtrait againe when they would.</p>
+            <p>The bodies of children are like tender plants, which may bee made to grows ſtrait with héede and propping: But without re<g ref="char:EOLhyphen"/>gard had, thoſe that by nature are diſpoſed to be moſt ſtrait will ſoone grow crooked, or ſome waies deformed.</p>
+            <p>When thou ſitteſt, let thy knées be neare together, and thy féete not farre aſunder. But whether thou ſitteſt or ſtandeſt, be<g ref="char:EOLhyphen"/>ware thou ſetteſt not thy féete too wide at the toes: for the vſe thereof will make thée ſplay-footed. Neither vſe to tread thy ſhooes awry.</p>
+            <p>Sit not, nor ſtand with thy legs a croſſe: nor with one legge caſt ouer the other. It
+<pb facs="tcp:191736:19"/>
+was indéede an auncyent faſhion of Kings, to ſit with the right foot caſt ouer the lefte thigh, but that is reproued in children.</p>
+            <p>In <hi>Italy</hi> ſome vſe to ſet one foot vpon the o<g ref="char:EOLhyphen"/>ther, like a Storke, but that is not comely for children.</p>
+            <p>To make a leg, bowing thy knée hand<g ref="char:EOLhyphen"/>ſomly vnto thy beters, thou art bound of du<g ref="char:EOLhyphen"/>tie: but if it be not doon orderly it diſgraceth thée. Some vſe to bow both knées togither, holding their bodies ſtraight: but that is for women &amp; girles: for a aman or boy it is hol<g ref="char:EOLhyphen"/>den, in <hi>England,</hi> for the beſt manners when they make obeyſance to their ſuperiors, to bow modeſtly firſt the right knée and then the left. And this obeiſance muſt thou ob<g ref="char:EOLhyphen"/>ſerue as ofte as thou méeteſt, or talkeſt with or receyueſt any thing at the hands of thyne elders and betters.</p>
+            <p>The frenchmen vſe to bow only the right knée, with a gentle mouing and bowing of the bodie.</p>
+            <p>But if thou bee conuerſant with ſtraun<g ref="char:EOLhyphen"/>gers, or with thy betters, delighted in the manners of ſtraungers, it will not be amis, if thou ſometime frame thy ſelfe to vſe the manners of them beſt pleaſing.</p>
+            <p>Let not thy going bee either too ſlowly, &amp;
+<pb facs="tcp:191736:19"/>
+dreamingly, like one that cared not whe<g ref="char:EOLhyphen"/>ther he went or not, nor yet too haſtily, as if thou were raſh &amp; headlong in thy dooings. The one is like effeminate perſons: the o<g ref="char:EOLhyphen"/>ther like mad folke. Neither goe trauerſing the way vnconſtantly; as doth the Switzer Souldiers, who take it a great glorie to weare great plumes of fethers in their hats.</p>
+            <p>Neither goe as though thou didſt halfe halt; nor yet nicely tripping with thy féete: the one is like counterfeite rogues; the other like harlots.</p>
+            <p>To ſhake with the legges as thou ſitteſt, or to make much ſtamping and toying with thy féete, is the propertie of a foole. And to <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>mble or ſhewe a number of Apiſh toyes with thy hands and fingers, is a ſigne of one not hauing a ſound and ſtable wit.</p>
+            <div type="part">
+               <head>Of Apparrell.</head>
+               <p>VVEE haue ſpoken of the bodie al<g ref="char:EOLhyphen"/>readie, and the ordring of it: now we will ſpeake a few words of apparell: for apparell may be called the body of the body: &amp; by it and wearing thereof, may partly bée coniectured, and iudged what is the nature and quallitie of the minde.</p>
+               <p>
+                  <pb facs="tcp:191736:20"/>Yet thereof can be no certaine faſhion pre<g ref="char:EOLhyphen"/>ſcribed, in as much as diuerſities of Coun<g ref="char:EOLhyphen"/>tries, honors, dignities, and riches, make ſome kind of apparrell well or ill beſeeming one Country or calling, and ſome other like to another. Againe times change the faſhi<g ref="char:EOLhyphen"/>ons in many Countries: whereto ſome<g ref="char:EOLhyphen"/>what muſt be yéelded, but I would not haue thée follow euery fond and ſtrange deuiſe.</p>
+               <p>Bee thou content with ſuch apparrell as thine eſtate and the bountie of thy friendes affoordeth: knowing it is not the outwarde gorgeous apparrell, but the inward vertues of the minde, that maketh one eſtéemed. What apparrell ſo euer thou haſt, ſée thou doo not ware it torne, or fowle, and ſlouenly: but kéepe it cleane and handſome, bruſhed &amp; and rubbed: Sée thy pointes bee tyed, thy girdle on, thy hat cleane, thy ſhirt bande rightly ſet about thy necke, thy clothes fitte about thy bodie, thy ſtockinges cleane and cloſe gartered, and thy ſhooes made cleane alſo.</p>
+               <p>Party coloured and too gawdy cloathes, are fitter for fooles and Apes, than for diſcret and well nurtured folke.</p>
+               <p>Fine apparrell is to be deſired none other<g ref="char:EOLhyphen"/>wiſe but for comlines, and according to the
+<pb facs="tcp:191736:20"/>
+dignitie and riches of thy friends.</p>
+               <p>Children muſt not be curious of gay clo<g ref="char:EOLhyphen"/>thing, but carefull to pleaſe their Parentes and Teachers, and ſtudie to learne vertu<g ref="char:EOLhyphen"/>ous Arts.</p>
+               <p>There are ſome children ſo ſlouenly, that they wet and perfume the lower partes of their ſhirts and cloathes with vrine: Some other that beſpotte and all to dawbe their breaſtes and ſléeues filthily, with dropping of drinke and Pottage and ſo foorth: Nay which is moſt loathſome, with ſniueling of their noſe, and driueling of their mouth, but in any wiſe beware thou of this beaſtli<g ref="char:EOLhyphen"/>nes.</p>
+               <p>Others let their clothes hang about them like a ſacke, like ſuch as are all careleſſe of credit, and cleanlines.</p>
+               <p>If thy friendes haue giuen thée any trim cloathes, goe not thou when thou weareſt them, caſting thine eyes ſtill on thy gay clothes, in a fooliſh iollitie and pride, like the peacocke beholding his taile. Neither ſhew thy cloathes to other bragging thereof: for ſo much the more as thou art partaker of worldly commodities, ſo much the more good manners and modeſtie it is for thée to ſhewe humilitie.</p>
+               <p>
+                  <pb facs="tcp:191736:21"/>Let poore folke and ſuch as haue eſcaped out of Captiuitie or any great miſerie, re<g ref="char:EOLhyphen"/>ioyce for their better eſtate and deliuerance: (ſo it be modeſtly, and with attributing the praiſe vnto God:) But, for a rich bodie to glorie inſolently in his riches or coſtly ap<g ref="char:EOLhyphen"/>parell; is eſtéemed a reproch vnto thoſe that want ſuch plentie: and the readie way to get hatred.</p>
+            </div>
+            <div type="part">
+               <head>Of manners at Schoole.</head>
+               <p>VVHen thou goeſt to the Schoole, remember that the Schoole is the very nurſerie of all vertues: the worke-houſe of framing thy minde and body to a right faſhion: the pathway to knowledge and the very direct entrance into a happy &amp; well ordered courſe of life.</p>
+               <p>Eſtéeme of thy teachers, as of ſpi<g ref="char:EOLhyphen"/>rituall Parents, knowing that all their ſtu<g ref="char:EOLhyphen"/>dies and indeuours is to doo thée good: And knowe that to them thou oweſt moſt great duty, loue and reuerence next vnto God, and to thy naturall Parentes: For ſurely vnto thy Parents and faithfull Schoolemaſters, thou canſt neuer be able to make ſufficient a<g ref="char:EOLhyphen"/>mends.</p>
+               <p>
+                  <pb facs="tcp:191736:21"/>Be it far from thée to go vnto the Schoole with as ill a will as wicked dooers goe vnto the Stockes, or to the Gallowes: Neither account it an intollerable toyle and labour, to apply thy ſelfe daily to learning, for lear<g ref="char:EOLhyphen"/>ning is but a ſport and play to ſuch as haue willing minds, and therefore in Latine it is called, <hi>ludus literarius.</hi> And indéede, how ſoeuer the corruption of mans nature miſli<g ref="char:EOLhyphen"/>keth of, and ſtriueth againſt Learning and knowledge, yet knowledge and learning (beeing rightly applyed) is the foode of the ſoule, the beſt delight of the minde, &amp; bring<g ref="char:EOLhyphen"/>eth with it (if it be well ſought) the greateſt and ſureſt honor and happines.</p>
+               <p>Pray therefore earneſtly to God euery morning, that he would ſuppreſſe in thée all rebellious, ſtubborne and careles affections: that hee would lighten thine vnderſtanding, make thy minde willing, dilligent and trac<g ref="char:EOLhyphen"/>table; readie to conceiue and able to carrie a<g ref="char:EOLhyphen"/>way whatſoeuer ſhall be taught thée. Theſe things if thou craue vnfainedly, God is able to giue, and will readily beſtow on thée.</p>
+               <p>When thou art at Schoole, bee ſtudious in thy lectures learning, attentiue to thy Maſters wordes and documents, what ſoe<g ref="char:EOLhyphen"/>uer thy Maſter ſhall teach, mark it héedfully,
+<pb facs="tcp:191736:22"/>
+and meditate thereon earneſtly vntill thou haue learned the ſame perfectlye. At voide times be ſure to get all thoſe rules, phraſes and lectures without booke, which thou muſt render againe or maieſt make vſe of, to haue them in readineſſe.</p>
+               <p>Be aſhamed that any of thy equals ſhould learne faſter than thou: but indeuour thou to learne faſter tha<g ref="char:cmbAbbrStroke">̄</g> al thoſe in lecture with thée.</p>
+               <p>In matters of doubt, aſke helpe earneſtly by intreatie or rewardes, at the hands of o<g ref="char:EOLhyphen"/>ther ſchollers better learned than thou. And be thou moſt readie and willing to helpe any thy equals or inferiours in learning.</p>
+               <p>Flie all fighting and wrangling with thy fellowes. But be curteous, gentle &amp; low<g ref="char:EOLhyphen"/>lie, among all both rich and poore.</p>
+               <p>Make no noyſe nor vſe any meane, where<g ref="char:EOLhyphen"/>by thou maieſt diſturbe thy ſchoolefellowes: much leſſe thy ſchoolemaſter.</p>
+               <p>Be a patterne of good manners, induſtry, curteſie, and obeying thy Maſter vnto all in the Shoole. So ſhall thy praiſe be great, and thy profit greater.</p>
+            </div>
+            <div type="part">
+               <head>Of manners at Church.</head>
+               <p>WHen thou commeſt into the Church, remember that it is the houſe of God-Almightie,
+<pb facs="tcp:191736:22"/>
+conſecrated to his ſeruice who is the King of Kings, Lord of Lordes, Father of thy Father and thee, gouernour of thy gouernours and of thée: he giueth all things vnto them that giue any thing to thée: hée giueth that nouriſhment vnto meate, drinke and clothing, which doth nouriſh thee: hee maketh pleaſant thoſe thinges that delight thée: all thy reléefe, comfort, and defending from euill, commeth by his mercifull boun<g ref="char:EOLhyphen"/>tie, and inuincible power. And albeit his glorie filleth euerie place, his eyes ſée all thinges in all places: his eares heare all that is ſaide or intended: and hée vnderſtan<g ref="char:EOLhyphen"/>deth all the thoughts: ſo as thou can thinke, ſaie, nor do any thing neuer ſo ſecretly but it is knowen to him: he therfore is to be pray<g ref="char:EOLhyphen"/>ed vnto, obeyed, reuerenced and pleaſed in all places. Yet the Church is a place apoin<g ref="char:EOLhyphen"/>ted eſpecially for all people to méete of al ſorts and ages, and there (as it were) with one heart and voice to call vpon Gods name: to praiſe him for benifits receiued, for he onely giueth all good things: To pray for wants to be reléeued, for hee hath the ſtorehouſe of all plentie, and giueth moſt bountifullie, and is moſt liberall to all that faithfullie aſke to craue his aide againſt all perrills:
+<pb facs="tcp:191736:23"/>
+For hee is an impregnable bulwarke and fort of defence to all his: And to conclude all ſpirituall as well as corporall graces are for al eſtates to be ſought for by earneſt prai<g ref="char:EOLhyphen"/>er in generall, and Gods name is there to be heartily glorified, by Pſalmes, ſpirituall Hymnes, and ſinging praiſes. And this ought to be each Saboth daies whole inde<g ref="char:EOLhyphen"/>uour and worke onely.</p>
+               <p>When thou art in the Church, ſée thou bée not idle, much leſſe giuen to play or tattle: but let thy whole meditation be on heauenly thinges, lifting vp (with the Miniſter and (people) deuoutly thy heart by prayer, to him that ſitteth in the throne of endles Maieſtie in heauen for euermore.</p>
+               <p>When the Miniſter readeth the worde of God or preacheth, be attentiue to marke all that is read and preached, meditating on the ſame afterward: that thou mayeſt ſtill car<g ref="char:EOLhyphen"/>ry in minde the effect of that which was ſpo<g ref="char:EOLhyphen"/>ken, and profit by it. So ſhalt thou amend thy memory, growe in knowledge, &amp; learne to liue as becommeth a Chriſtian, if thou wilt obſerue what ſin is reprooued in Gods worde, and flie the ſame, and marke what vertue is commended, and indeuoureſt to practiſe the ſame.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:191736:23"/>
+               <head>Of manners at the Table.</head>
+               <p>AT the table thou muſt ſhew a cheareful &amp; modeſt countenance, neither is it fit for thée to vſe pratling there: nor to ſpeak much in the companie of thy betters; vnles thou be aſked queſtions, or ſome matters of im<g ref="char:EOLhyphen"/>portance neceſſarie to be vttered, lyeth in thy minde &amp; not that, if before or after it might as well or better bee by thée vttered. Be<g ref="char:EOLhyphen"/>fore thou ſit downe, ſée that thy face &amp; hands be cleane waſhed, and thy nailes pared, ſo as no foulenes bee ſéene left, for that would be holden for a ſlouenlie part.</p>
+               <p>When thou haſt wiped them, caſt off all penſiuenes and griefe before thou ſit downe: for thou muſt not at the Table ſhewe a hea<g ref="char:EOLhyphen"/>uie countenance, nor make others ſadde and heauie.</p>
+               <p>If thou be to ſay Grace, ſet thy face in a modeſt order, and holding thy hands vp de<g ref="char:EOLhyphen"/>uoutlie, then faſtning thine eyes mannerly on the worthieſt perſon at the Table, bowe thy knée and beginne and ſay diſtinctly and plainely: if ſome other ſay Grace, ſtand thou with like modeſtie and deuotion.</p>
+               <p>Place not thy ſelfe too high, but firſt giue
+<pb facs="tcp:191736:24"/>
+all thine elders leaue to ſit downe: If for thy birth, or ſome eſpeciall friendſhip, the chiefe of the company, offer to place thée a<g ref="char:EOLhyphen"/>boue, refuſe it ſhamefaſtly once or twiſe: but if they ſtill force thée, refuſe it not obſti<g ref="char:EOLhyphen"/>nately.</p>
+               <p>When thou art ſet, hold both thy hands on the table, not ioyned together, nor on the ta<g ref="char:EOLhyphen"/>ble napkin, but on each ſide of the trencher, but lay not thy handes on thy lappe, nor in thy boſome.</p>
+               <p>Leane not with thine elbowes vpon the table, for that is onely lawfull for olde féeble perſons: Notwithſtanding ſome Courti<g ref="char:EOLhyphen"/>ers vſe it, iudging all that they doo is to bée tollerated.</p>
+               <p>Take héede that thou trouble none of them that ſit next thée with thine elbowes, nor thoſe on the other ſide of the table with thy féete.</p>
+               <p>To ſit rocking on thy ſtoole is fooliſh wan<g ref="char:EOLhyphen"/>tonnes, and too vnſéemely for children: or to ſit hitching from one ſide of the ſtoole to ano<g ref="char:EOLhyphen"/>ther is a moſt ſlouenly part: But ſitte thou as vpright and ſtill with thy bodie as thou canſt.</p>
+               <p>If thou haue a table-napkin, lay it on thy lappe, or hang it on thine arme, or as
+<pb facs="tcp:191736:24"/>
+ſome will haue it on thy left ſhoulder: and wipe thy fingers therewith when they are fowle, and not on thy cloathes nor on the ta<g ref="char:EOLhyphen"/>blecloth.</p>
+               <p>It becommeth thée not to bee couered on thy head, ſitting at table with thy Parents or men of account, vnleſſe they commaunde thée to put on thy Cap or Hat.</p>
+               <p>Some vſe to haue their children ſtande at their meate at the tables ende, and not there to abide all Dinner or Supper, but hauing eaten ſomewhat, to take away their tren<g ref="char:EOLhyphen"/>chers and napkins, and ſo making a curteſie looking towards the worthieſt of the compa<g ref="char:EOLhyphen"/>ny, to goe their way, and then to wait at the table.</p>
+               <p>Others haue their children ſit vntill the meate be taken away, and when frute is brought in, then they riſe and wait. Let children each way bee diligent to pleaſe their Parents, and euery way carefull to vſe good manners.</p>
+               <p>Breake not thy bread at the table, neither pare it about, nor féele it thruſting with thy hands, but cut it cruſt and crumme together, a péece and away.</p>
+               <p>Folke in olde time did at all their meales vſe to eate bread with very great reuerence,
+<pb facs="tcp:191736:25"/>
+as a ſacred thing: thereupon grew a cuſtome to kiſſe the bread, when one had let a péece of it fall. And ſurely it is to bee receiued with great reuerence and thankeſgiuing to God, for God giueth it force to nouriſh and ſu<g ref="char:EOLhyphen"/>ſtaine our life.</p>
+               <p>To begin the meale with drinke, is a fa<g ref="char:EOLhyphen"/>ſhion of Dronkardes, which drinke for cu<g ref="char:EOLhyphen"/>ſtome and not for thirſt: and that cuſtome is both vnholſome and vnſéemely.</p>
+               <p>It is alſo both vnhealthy and vnmanner<g ref="char:EOLhyphen"/>ly, to drinke preſently after eating of pottage or milke.</p>
+               <p>It is neither healthy nor ſéemely for a child to drinke aboue twiſe or thriſe at a meale. And when thou drinkeſt, guzzle not gréedily but let it goe downe ſoftly and quietly, not powring like a gutter.</p>
+               <p>Wine and ſtrong drinkes are both hurt<g ref="char:EOLhyphen"/>full for the health and memories of children: and a diſcredite for them to vſe. Wine and ſtrong drinkes are fitteſt for old age which is colde. Let children drinke ſmall drinke, or ſmall wine mingled with water, and that not too much of it, for their bloud will ſoone be in<g ref="char:EOLhyphen"/>flamed, and they in danger to ſurfet, beſides the weakening of their braine, and ſpoile of their wits.</p>
+               <p>
+                  <pb facs="tcp:191736:25"/>Sée here what profits they reape that are delighted in wine and ſtrong drinks: their téeth ſoone waxe yeallow and hoarie, their chéekes puffing hang flabbing: their eyes ſtaring and ill fauoured, their wits and me<g ref="char:EOLhyphen"/>morie quite dulled, their body ſubiect to the palſey, dropſie, gowt, and infinite other diſea<g ref="char:EOLhyphen"/>ſes, their bodies drowſie and vnapt to all goodneſſe, they waxe olde in young age, and are in daunger of deſtroying both body and ſoule euerlaſtingly.</p>
+               <p>Swallowe downe that which is in thy mouth before thou drinke, and before thou put alſo the cup to thy mouth, wipe the ſame well with thy table napkin: and after thou haſt done doo the like.</p>
+               <p>It is an vnmannerly part to looke aſide, or backward when thou drinkeſt.</p>
+               <p>Thanke him gently that drinketh to thée, and make ſemblance to pledge him, ſetting the cuppe to thy mouth, and making as though thou didſt drinke, though thou drinke little or nothing.</p>
+               <p>But if any bee ſo rude and voide of good manners, that he would force thée to pledge him more than is neceſſarie: refuſe it mo<g ref="char:EOLhyphen"/>deſtly, deſiring him to pardon thée.</p>
+               <p>In drinking, let thy drinke goe downe
+<pb facs="tcp:191736:26"/>
+leyſurely and eaſily, not gulping it in, or ſwallowing it gréedily like a brute beaſt.</p>
+               <p>When thou eateſt pottage, thou maieſt not bite thy bread, and ſo put it in, neither wring it a péeces in with thy hands, for that is clowniſh, but cut it on thy trencher in ſmall morſels, and then put it into the pot<g ref="char:EOLhyphen"/>tager. And beware thou ſoupe not thy pot<g ref="char:EOLhyphen"/>tage, but eate it leiſurely with a ſpoone, without taking it into thy mouth gréedily, forcibly drawing thy breath with it, as ſome clownes do vſe, ſounding at the receipt of euery ſpoonefull <hi>Slurrop.</hi> Beware alſo that thou ſpill no pottage nor ſauce, either on the table cloth, or on thy clothes.</p>
+               <p>Some there be, that can ſcarce abide, till they be ſet at the table, but they will fall to their meate, like gréedie wolues, or cormo<g ref="char:EOLhyphen"/>rants: but be not thou too haſtie, though it be among thy equals, for ſo thou maieſt be noted of arrogancie and immodeſtie: and by putting a morſell too hoate in thy mouth, thou maieſt be driuen quickly to voide out the ſame againe: than the which nothing can be more ſlouenly, and make thée more laughed to ſcorne.</p>
+               <p>A childe muſt ſtay a while, before he be<g ref="char:EOLhyphen"/>gin to eate, though he be hungrie, that he
+<pb facs="tcp:191736:26"/>
+may learne to moderate his affections: ther<g ref="char:EOLhyphen"/>fore <hi>Socrates,</hi> when he was olde, would not drink aſſoone as his cup was filled, although he were very thirſtie. If a childe ſit at table with his betters, he muſt be the laſt that ſhall put his hand in the diſh, and ſcant do that vnleſſe he be bidden: but muſt be con<g ref="char:EOLhyphen"/>tented with that is giuen him.</p>
+               <p>A childe muſt not vſe dipping his hand in the ſauce: but if he be willed to vſe ſauce with his meate, let him take the meat on his knifes point, and dip it therin. To turne the diſh, &amp; chooſe where to cut, is a lickeriſh and vnmannerly part: but cut on that part next thée, how euer it fall. Leauing the daintieſt morſels alwaies for thy betters.</p>
+               <p>Thou muſt neither lick nor pick the meat nor lick the ſugar from about the platters ſide. Beware thou offer not to eate of any diſh whereof thy betters haue not firſt eate<g ref="char:cmbAbbrStroke">̄</g>. Much leſſe maieſt thou preſume to touche thoſe diſhes firſt, which ſhould be laſt.</p>
+               <p>Whenſoeuer thy betters ſhall offer thée any meate, reach out thy trencher and take it, but remember that preſently thou bow thy body reuerendly to him that gaue it thée. If a dainty péece of meat be offred thée, make a reuerend ſhew of refuſall, as if thou hadſt
+<pb facs="tcp:191736:27"/>
+rather that the partie ſhould kéepe it to him<g ref="char:EOLhyphen"/>ſelfe: but if thou bee earneſtly willed to take it, receiue it with like modeſtie as is afore<g ref="char:EOLhyphen"/>ſaide: and of ſuch dainty péece giue alwaies part to him next thée, or to two or thrée by thée, if the portion will extend ſo largely.</p>
+               <p>That which being offred, thou canſt not receiue conueniently, according to manners with thy fingers, receiue the ſame with thy trencher or plate.</p>
+               <p>If a peece of Pye or of Tart bee offered thée, receiue that on thy plate or trencher, &amp; not with thy fingers.</p>
+               <p>If Cuſtard or ſuch like meate bee offered thée, receiue it on thy plate or trencher, and wiping the ſpoone (wherewith it was deliue<g ref="char:EOLhyphen"/>red thée) with thy table napkin, deliuer it a<g ref="char:EOLhyphen"/>gaine with humble bowing of thy body to him that gaue it thée, if he be thy ſuperior.</p>
+               <p>It is vnmannerly and euill to licke thy fingers being moiſtned with the fat of meat, or to wipe them on thy clothes: and as vn<g ref="char:EOLhyphen"/>ſéemely and alſo vnholſome is it to ſwallow downe whole morſels without chewing like Storkes and Herons.</p>
+               <p>If thou ſéeſt one cutting meate that thou likeſt, it is ill manners for thée to offer thy trencher before he make any offer thereof to
+<pb facs="tcp:191736:27"/>
+thée: for thou ſhouldſt ſo bee iudged a licko<g ref="char:EOLhyphen"/>riſh gréedy gut.</p>
+               <p>When thou receiueſt any thing at the ta<g ref="char:EOLhyphen"/>ble with thy hande, lay holde of it with no more but thy thumbe and two forefingers, the hinder fingers being bowed in manner<g ref="char:EOLhyphen"/>ly.</p>
+               <p>In eating thou muſt put thy morſels of bread and meate beeing cutte, leyſurely and modeſtly into thy mouth with the thumbe and forefinger of thy left hande, the other thrée fingers beeing bowed in, one beneath the other.</p>
+               <p>If one offer thée meate that thou loueſt not, or goeth againſt thy ſtomacke deny it not churliſhly as <hi>Clitipho</hi> anſwered his mo<g ref="char:EOLhyphen"/>ther, ſaying: I will none of it. But giue him thanks ſhamefaſtly: if hee ſtill offer it, ſay: Pardon mee Sir I loue it not: or it is not good for me.</p>
+               <p>Let Children alſo learne howe to carue meate: for there is one manner of caruing the leg of fleſh, another of the ſhoulder, an<g ref="char:EOLhyphen"/>other of the breſt, &amp;c. one manner of cutting vp a Capon, another of a Feſant, another of a Partridge, another of a Ducke, another of a Conie, &amp;c. all which muſt bee learned by daylie experience.</p>
+               <p>
+                  <pb facs="tcp:191736:28"/>Beware that in cutting thy meate at the table, thou handle or tutch no parte of the meate, more than thou cutteſt for thy ſelfe. For auoiding of which euill the <hi>Italians</hi> and <hi>Germanes</hi> vſe little forkes of ſiluer or ſtéele with their kniues in cutting meate.</p>
+               <p>It is a moſt ſlouenly thing to offer to gnaw anie bread or meate at the table. And as e<g ref="char:EOLhyphen"/>uill is it to offer vnto another, that which thou haſt alreadie halfe eaten.</p>
+               <p>To bite meate or bread and then dip it in the ſawce, is verie clowniſh: and as vnman<g ref="char:EOLhyphen"/>nerly to take anie thing chewed out of thy mouth, and lay it on thy trencher.</p>
+               <p>If by chance thou haue got into thy mouth anie ſtinking or vnſauerie morſell of meate, which thou canſt not ſwalow, turne thy face aſide, and with thy napkin couer thy face: and ſo rid it away ſecretly, that it be not ſéen or perceiued.</p>
+               <p>To take vp againe to eate the fragments from thy trencher, is no good manners.</p>
+               <p>Throw not downe thy bones to file the houſe, or make dogs fight: nor lay them on the cloath, but put them on a voyder, or on a corner of thy trencher.</p>
+               <p>Picke not the meate out of an egge wyth thy fingers, nor licke it with thy tung.</p>
+               <p>
+                  <pb facs="tcp:191736:28"/>Let no greaſe hang about thy lips, but kéep thy mouth clean with thy table napkin.</p>
+               <p>To gnaw bones is dog-like, but to picke the meat off with thy knife, is good maners.</p>
+               <p>Thou muſt take ſalt with thy knife out of the ſalt-ſeller, not with thy fingers: if it be too farre off, deſire ſome others helpe.</p>
+               <p>To licke the diſh or trencher whereon anie ſwéete thing hath béen, is rather the proper<g ref="char:EOLhyphen"/>tie of a cat, than of a well nurtured childe.</p>
+               <p>Cut thy meate in pretie morſels, and to e<g ref="char:EOLhyphen"/>uerie morſell of meate, eat a morſel of bread: that is both wholſome and good manners.</p>
+               <p>Some rauenouſly deuoure their meat, ra<g ref="char:EOLhyphen"/>ther than eate it, as if they ſhould neuer a<g ref="char:EOLhyphen"/>gaine come to meate: but theſe rather ſteale their meat, than receiue it thankfully.</p>
+               <p>Some thruſt ſo much into their mouthes at once that their chéeks ſwel like bag-pipes. Other open their iawes ſo wide, that they ſmacke like hogs: ſome blow at the noſe. All which are beaſtly faſhions.</p>
+               <p>To drinke or ſpeake when thy mouth is full, is not only ſlouenly, but dangerous.</p>
+               <p>Some eate and drinke all the while they ſit at the table, glutton-like. Others ſcratch their heads, picke their noſe and eares, or playe ſome apiſh toyes wyth theyr handes,
+<pb facs="tcp:191736:29"/>
+or ſhake their heads, or wincke, or looke a<g ref="char:EOLhyphen"/>wry with their eies, or play with their knife or cough, or ſpit: but all theſe are ſignes of Clowniſh fooles.</p>
+               <p>Though children be not permitted to talke at the table, in preſence of their betters; yet they may marke the wiſe and pleaſant diſ<g ref="char:EOLhyphen"/>courſes of other: And if they be aſked any queſtion, they muſt haue a regarde to aun<g ref="char:EOLhyphen"/>ſwere diſcréetly, yet chearefullie. And if they be willed to diſcourſe of any thing, they muſt not be too baſhfull, as they may not bée too ſawcie.</p>
+               <p>It is not good manners to ſit at the table looking heauie and ſad, but to ſhewe a light<g ref="char:EOLhyphen"/>ſome and cheareful countenance, is requiſite and commendable.</p>
+               <p>There be ſome ſo blockiſh that ſitting at the table, they marke nothing what is done or ſaide: Nay if a man ſpeake to them, they are as it were halfe a ſléepe, and can ſcarce tell what they eate. Theſe are rather like ſenceles ſtones than like men. But a héed<g ref="char:EOLhyphen"/>full childe may get much profit, aſwell by marking the wiſe ſayings of others, as by obſeruing the manners of thoſe that beſt behaue themſelues at the Table.</p>
+               <p>It is no good manners to gaze about the
+<pb facs="tcp:191736:29" rendition="simple:additions"/>
+Table, marking what euerie one eateth: neyther maieſt thou looke long vppon anye that ſit at the Table, or that ſtands by: and it is leſſe good manners to looke a ſquint ſtill vpon any that is beſide thée.</p>
+               <p>It is a diſhoneſt parte to report abroade whatſoeuer hath bin ſpoken at the Table in ſecrecie: or as one friend may vtter to ano<g ref="char:EOLhyphen"/>ther, things which he would not haue pub<g ref="char:EOLhyphen"/>liſhed.</p>
+               <p>A childe ſitting at table with onely his e<g ref="char:EOLhyphen"/>qualls may talke, but let his talke be ſeaſo<g ref="char:EOLhyphen"/>ned with modeſtie and wiſedome. But if he ſit with thoſe that bée farre his ſuperiors he muſt not talke at all, except it bee that a queſtion be aſked him.</p>
+               <p>When merrie talke is vſed of his ſuperi<g ref="char:EOLhyphen"/>ours, hee may not laugh a loud: but muſt ſmile a little modeſtlie.</p>
+               <p>If anie his ſuperiours chance to vtter a<g ref="char:EOLhyphen"/>ny ſpéeches of of ribawdrie, hee may in no wiſe laugh thereat, but muſt make ſemb<g ref="char:EOLhyphen"/>lance, as though heard them not.</p>
+               <p>Silence is counted a vertue in women: and much more ſéemelie is it in Children.</p>
+               <p>Beware thou anſwere not, before he that ſpeaketh to thée, hath ended his ſpéech: for ſo ſhalt thou be but mocked.</p>
+               <p>
+                  <pb facs="tcp:191736:30"/>
+                  <hi>Salomon</hi> the wiſe accounted it fooliſhnes to anſwere before the tale were heard: and it it were neceſſarie to pauſe a little after the queſtion.</p>
+               <p>If thou vnderſtand not well what hee ſpake, and he expect an anſwere, pray him to beare with thée, and tell him the cauſe.</p>
+               <p>When thou vnderſtandeſt his demaund, anſwere diſcréetly, briefly and chéerfully.</p>
+               <p>Thou maiſt not there ſpeake anie thing gainſt a mans credit, nor to renue his gréefe.</p>
+               <p>Thou maiſt not diſpraiſe any victuals ſet before thée: but thoſe thou loueſt féed on mo<g ref="char:EOLhyphen"/>deſtly &amp; thankfully, leauing the other.</p>
+               <p>If any at the table behaue himſelfe vnde<g ref="char:EOLhyphen"/>cently, ſéeme thou rather not to ſée than to mocke him.</p>
+               <p>Be not thou readie to finde fault with o<g ref="char:EOLhyphen"/>thers follies, but indeuour to be thy ſelfe vn<g ref="char:EOLhyphen"/>reprouable: imitating thoſe that beſt behaue themſelues.</p>
+               <p>It were not good for children to ſit ouer long at the table: for that both hindreth helth and dulleth the wits. But children muſt o<g ref="char:EOLhyphen"/>bey their parents wills.</p>
+               <p>Thoſe that would ſuffer children to be pin<g ref="char:EOLhyphen"/>ched with hunger, are merciles: and they that would haue them eate and drinke vntill
+<pb facs="tcp:191736:30"/>
+they be readie to burſt, are leſſe their frends.</p>
+               <p>Children ſhould be fed, and not crammed: for ſome thinke that they are neuerfull, vn<g ref="char:EOLhyphen"/>leſſe the belly be thruſt ſo full, that they hee like to burſt, or to ſpue. But a meaſure ſhould be learned from the infancie.</p>
+               <p>Some thinke to loue, but hate their chil<g ref="char:EOLhyphen"/>dren ſo, that they ſuffer them to be banquet<g ref="char:EOLhyphen"/>ting almoſt all night.</p>
+               <p>If the banquet bee ſo long that thou canſt not well ſit it out, ariſe, take away thy tren<g ref="char:EOLhyphen"/>cher and ſcraps with thy napkin, making o<g ref="char:EOLhyphen"/>beyſance toward him that ſéemeth the wor<g ref="char:EOLhyphen"/>thieſt in the companie, and come and waite by the table mannerly.</p>
+               <p>In taking off or ſetting on anie diſh to the table, beware thou ſpill no broth nor ſuch like vpon anie bodies clothes.</p>
+               <p>In reaching or taking any thing, vſe thy right hand, and not thy left.</p>
+               <p>If thou wilt ſnuffe the candle, take it from the table, &amp; being ſnufft, tread out the ſnuffe plucked off quickly, leaſt the ſmell thereof of<g ref="char:EOLhyphen"/>fend any bodie,</p>
+               <p>The manner of voyding the table: like as alſo of furniſhing the ſame, and of ſpreading the cloth is ſundry waies vſed, according to the dignitie of perſons that are to eat: for the
+<pb facs="tcp:191736:31"/>
+ſeruice of princes is of one ſort; that of great Lords is of another ſort; of worſhipfull per<g ref="char:EOLhyphen"/>ſons is otherwiſe: all which faſhions are farre aboue this ſubiect, which is but a ſhort inſtruction for certaine obſeruations to bee marked of the ruder ſort. Yet foraſmuch as ſome Gentlemen and other, will haue their children to take away the table commonlye after meate, I thinke it not amiſſe to ſpeake a few woordes of the manner how to take a<g ref="char:EOLhyphen"/>way the Table.</p>
+               <p>When thou therefore art appointed by thy parents or betters to that function, looke that in taking off the diſhes, thou take them off in the ſame order that they were ſerued to the table, the groſeſt meates (which were firſt ſerued) being firſt taken away, and the daintieſt (that were laſt ſerued) take laſt a<g ref="char:EOLhyphen"/>way: and in taking away the diſhes, beware that thou ſpill no broth or ſawce on the table cloth, or on the clothes of anie that ſit at ta<g ref="char:EOLhyphen"/>ble. And if thou bee willed to fill any wine or béere to the table, fill not the cup too full, leaſt thou ſpill in deliuering it.</p>
+               <p>But foraſmuch as children are not trou<g ref="char:EOLhyphen"/>bled with anye more than with voyding of the laſt furniture of the table, namely, with the chéefe and frute, let vs ſpeake thereof.</p>
+               <p>
+                  <pb facs="tcp:191736:31"/>If in wayting this while at the table ther be giue<g ref="char:cmbAbbrStroke">̄</g> thée an apple or ſuch like, thou maiſt not ſtand eating the ſame before the table, but beſtow it till afterward: neither mayſt thou gaze ſtedfaſtly on ſuch iunkets as thou ſéeſt and likeſt there, much leſſe mayſt thou ſtare on thoſe that ſit and eate: but be atten<g ref="char:EOLhyphen"/>tiue and readie to ſerue what ſhall bee called for.</p>
+               <p>When dinner is done, and thou willed to take away, firſt couer the ſalt, (if it bee not couered before) then take away the frute di<g ref="char:EOLhyphen"/>ſhes in order, the laſt ſerued firſt, and ſo on, and laſtly the chéeſe. But beware of catch<g ref="char:EOLhyphen"/>ing for figs, comfets, or ſuch daintie things, before the table bee voyded, and grace ſaid. When chéeſe and all is voyded, ſet on the ta<g ref="char:EOLhyphen"/>ble a faire voyding charger, making there<g ref="char:EOLhyphen"/>with a legge: then with thy trencher-knife take vp the trenchers, putting them into the voyder one after another, beginning at the vpper part of the meſſe firſt: and with the ſame trencher-knife gather al the crummes and fragments into the voyder, and ſtill lay or deliuer away the table napkins, as thou getteſt them, all ſaue one, which thou ſhalt hang on thy left arme. When thou haſt thus gathered into the voyder all the crums
+<pb facs="tcp:191736:32"/>
+and ſcraps, bring downe the voider lower, and with the table napkin that hanged on thine arme, holding the one end thereof in thy right hand, and the other in the left, take with thy right hand the loues from the ſalt, one by one, &amp; put them in the voider, but ſo as the end of the table napkin be betwéene the bread and thy hand, &amp; laſtly take the ſalt as thou diddeſt the loaues with thy right, and holding the ſame on the right ſide of the voider with that end of thy table napkin, and hauing before laide the voiding knife on the top of the voider, draw ouer the other end of the napkin with thy left hand, and ſo lifting vp the voider with both hands, make obeiſance and carry it away: then returne and folde vp firſt both the ſides of the table cloth, then the ends, and ſo turning it thrée or foure double, drawing it towarde thée downeward, take it of, making a lowe leg, looking toward the cheefe at the table.</p>
+               <p>In honorable and ſome worſhipfull hou<g ref="char:EOLhyphen"/>ſes, the ſalt and voiding knife is taken away ſolemnly alone after the voider. But, this ſhall ſuffice for the meaner ſort. After the table cloth is taken away, attend till the companie be ſilent, then with a ſober coun<g ref="char:EOLhyphen"/>tenance and ieſture after thou haſt made o<g ref="char:EOLhyphen"/>beiſance,
+<pb facs="tcp:191736:32"/>
+begin to ſay grace.</p>
+               <div type="prayer">
+                  <head>A grace or praier before meate.</head>
+                  <p>
+                     <hi>O</hi> Lord God almightie and father moſt mercifull, which giueſt all good things, and bleſſeſt all that is bleſſed, bleſſe vs we beſéech thée, and all thy good benefits ordai<g ref="char:EOLhyphen"/>ned by thée to our comfort. Giue vs grace thankfully to receiue them, moderately to vſe them, and to be bettered by inioying of them. Vouchſafe alſo to ſaue, proſper and preſerue thy Church vniuerſall, our Quéene and this realme: and ſend vs true peace both of conſcience and of bodily ſtate, and a right vnity in religion, thorough Ieſus Chriſt our Lord and Sauiour. Amen.</p>
+               </div>
+               <div type="prayer">
+                  <head>A grace or thankeſgiuing after meate.</head>
+                  <p>WE yéelde thée moſt humble and hearty thankes O God of all graces, and fa<g ref="char:EOLhyphen"/>ther moſt fauourable, for this our good re<g ref="char:EOLhyphen"/>freſhing, and all other thy infinite bounties beſtowed moſt mercifully on vs. Féed vs al<g ref="char:EOLhyphen"/>ſo we pray thée, with the foode of thy holy ſpi<g ref="char:EOLhyphen"/>rite, that we may dayly grow ſtronger and ſtronger in true faith, godlineſſe and vertue.
+<pb facs="tcp:191736:33"/>
+Vouchſafe alſo to ſaue, proſper and preſerue thy Church vniuerſall, our Quéene and this Realme, and ſend vs true peace both of con<g ref="char:EOLhyphen"/>ſcience and of bodily ſtate, and a right vnity in religion, through Ieſus Chriſt our Lord. Amen.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Of manners at play.</head>
+               <p>PLay is to be vſed for ſport at ſome times, and for to refreſh the ſpirites, and make the bodie more healthie and actiue: it is not to be vſed as an occupation.</p>
+               <p>It is ſaid that the naturall diſpoſition of a childe is moſt eaſily to be ſéene in play, whe<g ref="char:EOLhyphen"/>ther he be giuen to pride, lying, anger, ſtrife, ſelfe will, deceipt, or what other vertue, or vice.</p>
+               <p>Be thou therefore in play gentle, pleſant iuſt and frendly, remembring, that thou playeſt to exerciſe thy bodie and delight thy minde: and by contention and wrangling thou ſhouldeſt diſtemper thy bodie, and diſ<g ref="char:EOLhyphen"/>quiet thy minde.</p>
+               <p>Play not for great wagers, but for frend<g ref="char:EOLhyphen"/>ly familiaritie. Striue not ſo much for the wager, as to win victorie, yet rather than thou ſhouldeſt ſéeme contentious, yéeld ouer
+<pb facs="tcp:191736:33"/>
+the victorie to the vanquiſhed, and flie al fal<g ref="char:EOLhyphen"/>ſhood or fraud.</p>
+            </div>
+            <div type="part">
+               <head>Of manners in the chamber.</head>
+               <p>WHen thou commeſt into thy chamber at euening, remember that thou art now going to bed, which is a figure of thy graue, and that ſléepe is an image of death. Call to minde therefore, how thou haſt ſpent the day paſt: examine thy conſcience, whether thou haue committed anie euil thing: if thou haue, crie God heartely mercie therefore, &amp; praye him for Chriſtes ſake to forgiue thée. That done, look ouer héedfully once or twice that which thou haſt to repeate next morn<g ref="char:EOLhyphen"/>ing. Afterward, knéeling on thy knées de<g ref="char:EOLhyphen"/>uoutly, pray that God would lighte<g ref="char:cmbAbbrStroke">̄</g> thine vn<g ref="char:EOLhyphen"/>derſtanding with his holy ſpirit, which may lead thée into all truth: that he would protect thée and kéepe thée from all euill both of ſoule and bodie. Pray alſo for all in authoritie, for thy frends, and for al whom God wold haue prayed for: and concluding with the Lordes prayer, commit thy ſelfe into the handes of God almightie.</p>
+               <p>In putting off, or putting on thy cloathes, beware that thou vncouer not anie part of
+<pb facs="tcp:191736:34"/>
+thée which Nature would haue hidden.</p>
+               <p>In lying with another, touch him not, nor be anie way troubleſome vnto him.</p>
+               <p>Make no noyſe, ſhouting, nor fooliſh laugh<g ref="char:EOLhyphen"/>ter in the chamber, but remember, that euen there where thou thinkeſt thy ſelfe moſt pri<g ref="char:EOLhyphen"/>uate, God almightie beholdeth all thy doo<g ref="char:EOLhyphen"/>ings: to whom thou oweſt more dutie and reuerence, than to all the men in the world.</p>
+               <p>Be cleanly and neate in thy chamber, a<g ref="char:EOLhyphen"/>uoyding all ſluttiſhnes.</p>
+               <p>In the morning when thou riſeſt, call to thy remembrance alſo, how thou art to en<g ref="char:EOLhyphen"/>ter into the courſe of that day, as into a long and dangerous iourney: for the diuell wil be readie to aſſault thée diuers wayes, the ex<g ref="char:EOLhyphen"/>amples of the wicked to allure thée, the luſts of the fleſh to entice thée to euil: and all theſe are enimies to the true happines of thy ſoul and bodie; beſides manie miſchaunces that may befall thée. Pray therefore earneſtlye vnto God, to ſafe-conduct, guide and defend thée, ſo ſhalt thou bee ſafe vnder his ſhield. And remember in the day to vſe as occaſion ſhal ſerue the manners before in this Trea<g ref="char:EOLhyphen"/>tiſe ſpoken of.</p>
+               <p>Now the Lord of life, and Author of all
+<pb facs="tcp:191736:34"/>
+goodnes, graunt thée grace to walke in true godlines and good manners, that thou maiſt grow to be a perfect man in Chriſt Ieſus.</p>
+               <p>Amen.</p>
+               <div type="prayer">
+                  <head>A praier for children to vſe in the Morning.</head>
+                  <p>
+                     <hi>O</hi> Lord God, most holie, most high, mightie and glorious: that by thine vnſpeakable wiſedome and omnipo<g ref="char:EOLhyphen"/>tencie hast made all things, and placed them in their beings: and which gouerneſt all thy creatures according to thy good ple<g ref="char:EOLhyphen"/>ſure. Looke mercifully I beſeech thee on mee, that am the work of thine own hands. And as it hath pleaſed thee of thy great louing kindnes, to keepe, ſaue, and defend me from the manifold dangers of this night past: for the which I yeeld vnto thine ex<g ref="char:EOLhyphen"/>cellent Maiestie, all due humble and hear<g ref="char:EOLhyphen"/>tie
+<pb facs="tcp:191736:35"/>
+thankes: ſo let it bee thy good pleaſure to keepe and defend me this daye and euer<g ref="char:EOLhyphen"/>more from all euils both of ſoule and bodie. Be thou my protector, my guide, and my ſoueraigne Lord and Gouernor. Graunt O Lord, that as the night of darknes is now past, and the cleare day-light doth appeare; ſo I maie by thy gracious aſsiſtaunce learne to cast off all darknes of wickednes, error and ignorance, and haue my ſoule and vn<g ref="char:EOLhyphen"/>derſtanding more and more lightned with true faith, wiſedome, &amp; godlie knowledge. Let thy holie ſpirite bee my inſtructer and chiefe teacher: which is able to lead me in<g ref="char:EOLhyphen"/>to all truth. Make mee, deere father, apt to conceiue, and diligent to practiſe what<g ref="char:EOLhyphen"/>ſoeuer good and vertuous documents ſhall be taught me by my parents, ſchoolmaſters, or wiſe elders. Keepe ſtubbornnes and diſ<g ref="char:EOLhyphen"/>obedience farre from me: but make me de<g ref="char:EOLhyphen"/>lighted in that which is good, that I maie with all patience and dutifulnes be readie to encline my heart to all wiſe and godlie precepts.</p>
+                  <p>
+                     <pb facs="tcp:191736:35"/>And foraſmuch, as both naturall dutie bindeth me to be mindfull of the weale and proſperitie of the Prince and Magiſtrates, vnder whoſe protection I liue in ſafetie, as alſo for my parents and frends, whome thou haſt giuen to be the authors of my life, nouriſhment, and maintenance: and for that alſo Chriſtian charitie bindeth me, to be carefull of the good of all Chriſtians in generall, yea, and to praie, that ſtill moe maie dailie be added to the Church: I ther<g ref="char:EOLhyphen"/>fore for them all euen as for my ſelfe, doo beſeech thee to extend forth thine abound<g ref="char:EOLhyphen"/>ant mercies to euerie one in his place, that they maie liue &amp; die to thy glorie, &amp; their owne ſaluation, concluding with that ho<g ref="char:EOLhyphen"/>lie and perfect praier, which thine onelie ſonne Christ Ieſus hath taught vs, ſaying, <hi>Our Father, &amp;c.</hi>
+                  </p>
+               </div>
+               <div type="prayer">
+                  <pb facs="tcp:191736:36"/>
+                  <head>A praier to be ſaid of children at euening before they goe to bed.</head>
+                  <p>O Lord God, our moſt gracious hea<g ref="char:EOLhyphen"/>uenly Father, I moſt humbly thanke thee for thine vnſpeakable mercies &amp; bountie ſhewed me at al times hitherto, and namely for keping me this daie paſt in thy fatherly protection, defending me from all euills, and beſtowing on me co<g ref="char:cmbAbbrStroke">̄</g>
+                     <g ref="char:EOLhyphen"/>forts neceſſarie both for my ſoule &amp; bo<g ref="char:EOLhyphen"/>die. O Lord, now that the darke night is come, which is a ſigne of horrour, death, and woe, and that I am to lye &amp; ſleepe on my bed, which is an image of the graue wherein my bodie after thys life is like to reſt, let thy holye ſpirite ſo guard, protect, direct, and comfort me, that neither terrours of conſcience, aſ<g ref="char:EOLhyphen"/>ſaults
+<pb facs="tcp:191736:36"/>
+of Sathan, ſuggeſtions to ſin, fleſh<g ref="char:EOLhyphen"/>ly concupiſcence, idle ſloathfulnes, nor fearfull dreames may trouble me: but that ſleeping &amp; waking my ſoule, minde and ſpirit may wholly be meditating on thy precepts, and maye ſtill awaite to at<g ref="char:EOLhyphen"/>tend to doo thy will: that I may learne to die vnto ſinne, and liue vnto righte<g ref="char:EOLhyphen"/>ouſnes, &amp; my riſing in the morning may put me in hope of the riſing to euerlaſt<g ref="char:EOLhyphen"/>ing life. Grant this to mee and to all thy Church, for Chriſtes ſake. In whoſe name, &amp;c.</p>
+               </div>
+               <div type="prayer">
+                  <pb facs="tcp:191736:37" rendition="simple:additions"/>
+                  <head>Euerie creature of God is made holie vnto vs by his word and praier. <hi>1. Ti. 4.5.</hi>
+                  </head>
+                  <head type="sub">A Praier before meate.</head>
+                  <p>WE humbly beſéech thée, O heauenlie Father, to forgiue vs all our ſinnes, and to bleſſe vs and theſe thy good giftes which we receiue from thée, through Ieſus Chriſt.</p>
+               </div>
+               <div type="prayer">
+                  <head>VVhen thou hast eaten &amp; art full, thou ſhalt bleſſe the Lord thy God.</head>
+                  <head type="sub">A praier or a grace after meate.</head>
+                  <p>
+                     <hi>O</hi> Lord we beſéech thée to make vs thank<g ref="char:EOLhyphen"/>full for theſe and all other thy benefites beſtowed vppon vs miſerable ſinners, but ſpecially for thy holy word, and our redemp<g ref="char:EOLhyphen"/>tion by Ieſus Chriſt. Amen.</p>
+               </div>
+               <div type="prayers">
+                  <pb facs="tcp:191736:37"/>
+                  <head>
+                     <hi>Tvvo other praiers, for morning</hi> and euening, made by a zealous and learned miniſter of Gods word.</head>
+                  <div type="prayer">
+                     <head>Morning praier.</head>
+                     <epigraph>
+                        <q>VVatche and pray, leaſt yee enter into temptation. <bibl>
+                              <hi>Mat. 26.41.</hi>
+                           </bibl>
+                        </q>
+                     </epigraph>
+                     <p>O Moſt mightie God our heauenly &amp; merciful father, we moſt wret<g ref="char:EOLhyphen"/>ched ſinners humbly confeſſe vn<g ref="char:EOLhyphen"/>to thy Maieſtie, that all good things we haue, do come from thy onely mercy, that we are moſt vnworthy of them, &amp; yet altogether vnable heartily to pray for the continuance thereof, yet ſeeing thy deare ſonne Ieſus Chriſt hath com<g ref="char:EOLhyphen"/>maunded vs in his name, to pray, and
+<pb facs="tcp:191736:38"/>
+that with aſſurance to ſpeede, and to be heard: we beſeech thee for his ſake to prepare our hearts by thy holy ſpirite, to put out of our mindes all wordly things and vaine fanſies, and to ſtirre vs vp ear<g ref="char:EOLhyphen"/>neſtly to conſider what great neede we haue of thy continuall help both in our ſoules and bodies. O Lorde we haue through our manifolde ſinnes deſerued thy wrath, and eternall damnation of body and ſoule, yet by the vertue of the great ſufferings of Ieſus Chriſt, and the ſhedding of his precious bloud, forgiue &amp; waſh away al our offences: we are vn<g ref="char:EOLunhyphen"/>worthy of thy fauour, either in this life or in the life to come, yet through his holineſſe receiue vs vnto mercy, and make vs heires of thy bleſſed kingdome, and ſo increaſe in our hearts euery day vnfained repentance for our former wickedneſſe, in that we haue neither worſhipped thy Maieſtie, nor liued to<g ref="char:EOLhyphen"/>wards others according to thy worde. Strengthen our faith (O Lord) in Ieſus Chriſt, for the forgiuenes of our ſinnes;
+<pb facs="tcp:191736:38"/>
+and for thy tender mercy ſake, powre into our hearts the grace of thy holy ſpi<g ref="char:EOLhyphen"/>rite, which may ſtir vp in vs a more har<g ref="char:EOLhyphen"/>tie loue vnto thee and thy bleſſed word, that by it we may learne to worſhip thee aright, &amp; to liue faithfully and truly towards all men in our callings, ſtriuing continually againſt all ſinne, chiefly in our ſelues, and then alſo in others, ſo that whenſoeuer it ſhall pleaſe thee to call any of vs out of this ſhort and ſinfull life, we may willingly deliuer vp our ſoules into thy bleſſed kingdome, and may come with ioy (as louing children) to thee our heauenly and mercifull fa<g ref="char:EOLhyphen"/>ther. O Lord make vs thankefull for all thy corrections, giuing vs grace by them to feare thee more carefully, and to ſor<g ref="char:EOLhyphen"/>row for our ſinnes more hartily. Make vs alſo thankefull for all thy benefits, namely for the ſweete ſleepe and quiet reſt whereby thou haſt this night refre<g ref="char:EOLhyphen"/>ſhed vs, we beſeech thee now in like maner (O gracious God) for Chriſtes ſake, to receiue vs this day into thy bleſ<g ref="char:EOLhyphen"/>ſed
+<pb facs="tcp:191736:39"/>
+keeping, preſerue vs from all perils and dangers, from ſinne, from the wic<g ref="char:EOLhyphen"/>ked cares of this life, and the vaine de<g ref="char:EOLhyphen"/>ſires of the fleſh, ſhining into our hearts by the grace of thy holy ſpirit, and the true knowledge of Ieſus Chriſt, the true light of the world, that we may guide all our thoughts, words and deeds, accor<g ref="char:EOLhyphen"/>ding to the ſame, and walke painefully and truely in our callings, to the glory of thy bleſſed name, the good example of all others, and the great aſſurance of our owne ſaluation, through thy deare ſonne Ieſus Chriſt our onely Sauiour, in whoſe name we pray for theſe and all other graces, as he hath taught vs ſaying, Our Father, &amp;c.</p>
+                  </div>
+                  <div type="prayer">
+                     <head>Euening praier.</head>
+                     <epigraph>
+                        <q>The Lord is nigh vnto all them which call vp<g ref="char:EOLhyphen"/>on him, euen vnto all ſuch as call vpon him faithfully. <bibl>Pſal. 145.18.</bibl>
+                        </q>
+                     </epigraph>
+                     <p>WE moſt humbly beſeech thee, O grati<g ref="char:EOLhyphen"/>ous God and heauenly father, euen for thy deare ſonne Ieſus Chriſtes ſake, to par<g ref="char:EOLhyphen"/>don
+<pb facs="tcp:191736:39"/>
+&amp; forgiue vs all our ſinnes, in thought, worde, and deed committed againſt thy holy lawes and commandements, to turne away from vs gratiouſly all thoſe plagues which we moſt iuſtly haue deſerued for them, both in this life &amp; in the life to come, working in our hearts euery day by thy holy ſpirite more true and vnfained ſorow for them, with greater care euer hereafter to know thy bleſſed will reuealed in thy worde, and to order all our opinions and doings according to the ſame, and ſo much the rather, O Lord, becauſe of thy mani<g ref="char:EOLhyphen"/>fold bleſſings wherby thou doſt daily moue vs herevnto, for the which (O heauenly fa<g ref="char:EOLhyphen"/>ther) make vs more heartily thankefull, ſpecially for our creation at the firſt after thy owne holineſſe and righteouſneſſe, for our redemption by Ieſus Chriſt when we were vtterly loſt, for that knowledge of our Sauiour, which by the preaching of thy bleſſed Goſpell through thy holy ſpirite thou haſt wrought in our hearts, for true re<g ref="char:EOLhyphen"/>pentance, for faith, hope, &amp; loue, for watch<g ref="char:EOLhyphen"/>fulneſſe in our doings, and all other gifts of thy grace perteining to our ſaluation, all which graces (O Lord) are very weake in vs, becauſe of the great wickednes of our harts
+<pb facs="tcp:191736:40"/>
+ſtriuing againſt thy holy ſpirite, ſo as in thy wrath thou mighteſt iuſtly forſake vs vt<g ref="char:EOLhyphen"/>terly: yet (O Lorde) let it be thy gratious pleaſure to increaſe them in our harts euery day, euen ſo long as we liue in this world, as of thy goodnes thou haſt begun, that ther<g ref="char:EOLhyphen"/>by the aſſurance of our ſaluation may be more certainely ſealed vp vnto our owne conſciences, that ſo we may alſo learne to be more truely thankfull vnto thy maieſtie for the benefits of this life: namly, that thou haſt hitherto euer ſince we were borne, gi<g ref="char:EOLhyphen"/>uen vs thoſe things that were needfull for our bodies, as health, foode, apparrell, and ſuch like, that thou haſt kept vs from many dangers, comforted vs in all our troubles, and ſtrengthned vs in all our weaknes, and giuen vs grace this day to labour faithfully and truely in our callings, hauing brought vs ſafely paſt all the dangers thereof, vnto this preſent houre. O Lord forgiue vs the ſinnes of this day and of our whole life, and ſpecially our great vnthankfulnes for theſe thy manifold bleſſings, and in Ieſus Chriſt thy deare ſonne continue them towards vs euer hereafter both in ſoules and bodies, &amp; ſpecially this night receiue vs into thy bleſ<g ref="char:EOLhyphen"/>ſed keeping, preſerue vs from all dangers,
+<pb facs="tcp:191736:40"/>
+from ſin, from all vngodly dreames and fan<g ref="char:EOLhyphen"/>ſies, granting vnto vs comfortable reſt, ſo as we may be the better ſtre<g ref="char:cmbAbbrStroke">̄</g>gthened to ſerue thee faithfully in our calling, and giuing vs grace alwaies both ſleeping and waking to be ready when thou ſhalt call vs out of this miſerable world. Laſt of all, becauſe thou haſt commanded vs to pray for others alſo, we beſeech thee good Lord be mercifull to all natio<g ref="char:cmbAbbrStroke">̄</g>s, ſpecially to thoſe churches where thy goſpell is truly preached, continue thy mercy towards this realme, preſerue our Queene, bleſſe her counſaile, and all in au<g ref="char:EOLhyphen"/>thority with neceſſary graces, increaſe the number of faithfull preachers, ſtrengthen the godly, lighten the ignorant, conuert the wicked, be mercifull to all ſchooles and pla<g ref="char:EOLhyphen"/>ces of learning, to all our friends and kinſe<g ref="char:EOLhyphen"/>folkes, and others, afflicted in body or in ſoule, graunting to euery one of them, as to our ſelues, thoſe neceſſary graces which thou knoweſt to be needfull for euery one of vs in our ſeuerall eſtates and callings, to the glory of thy name, and the better aſſu<g ref="char:EOLhyphen"/>rance of our ſaluation through Chriſt Ieſus, in whoſe name we aske of thy maieſtie as he hath taught vs. Our Fa<g ref="char:EOLhyphen"/>ther which, &amp;c.</p>
+                  </div>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:191736:41"/>
+            <pb facs="tcp:191736:41"/>
+         </div>
+      </body>
+   </text>
+</TEI>
